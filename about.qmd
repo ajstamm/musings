@@ -1,0 +1,38 @@
+---
+title: "About"
+image: profile.jpg
+about: 
+  template: solana
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/abigailstamm
+    - icon: github
+      text: Github
+      href: https://github.com/ajstamm
+    - icon: images/da-icon.png
+      text: deviantArt
+      href: https://deviantart.com/anabiyeni
+    - icon: images/ao3-icon.png
+      text: AO3
+      href: https://archiveofourown.org/users/ajstamm
+---
+
+## Myself
+
+I am an artist, computer programmer, writer, and civil servant. I grew up on a farm and have lived in several states and countries. I have studied a little of everything, most recently epidemiology. I enjoy writing and creating art around themes of religion, identity, culture, and animals.
+
+## My purpose
+
+I have wanted for years to start a blog, where I could write about whatever has most recently caught my attention. (My family has wanted me to start one ever since receiving my letters home from the Pace Corps twenty years ago.) I moved to Minnesota a little over a year ago to start a new job as an informatician and joined a religious community that is not the one in which I was raised. I have been making new friends and learning new things about myself and how I identify. 
+
+## My goal
+
+I have accounts on [deviantArt](https://deviantart.com/anabiyeni) for my artwork and on [AO3](https://archiveofourown.org/users/ajstamm) for my poetry. I will be using several of my beadwork pieces as blog imges. Most of these, and others like them, are posted on deviantArt. 
+
+While I may reference my work posted elesewhere, my goal with this blog is to write journal-type reflective pieces, maybe short stories (sometimes fictionalized, to protect privacy) about my daily experiences. I do not know how frequently I will update or what themes will emerge as I write.
+
+## My medium
+
+I am writing this blog in quarto and posting it through GitHub. I use R and markdown (including quarto) extensively for work. If you're interested in R, you can find some of my packages and training resources on my [GitHub](https://github.com/ajstamm) account.
+

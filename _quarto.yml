@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "musings"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        text: GitHub
+        href: https://github.com/ajstamm
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
