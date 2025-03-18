@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Musings",
     "section": "",
-    "text": "Celebrating Lent\n\n\n\n\n\n\nreligion\n\n\ncatholic\n\n\nlent\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\nAbby Stamm\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 16, 2025\n\n\nAbby Stamm\n\n\n\n\n\n\nNo matching items"
+    "text": "St Patrick’s Day Lenten Reflection\n\n\n\n\n\n\nreligion\n\n\nlent\n\n\ncatholic\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\nAbby Stamm\n\n\n\n\n\n\n\n\n\n\n\n\nCelebrating Lent\n\n\n\n\n\n\nreligion\n\n\ncatholic\n\n\nlent\n\n\n\n\n\n\n\n\n\nMar 16, 2025\n\n\nAbby Stamm\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 15, 2025\n\n\nAbby Stamm\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/lent activities/index.html",
+    "href": "posts/lent activities/index.html",
+    "title": "Celebrating Lent",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "I was raised in and east-coast Roman Catholic university community. Since leaving that small progressive enclave, I’ve struggled to find a Catholic church where I feel welcome to be myself, or in some cases welcome at all. Here in the twin cities, I stopped trying. Now I attend an Episcopal church near my house. I have found them to be welcoming and supportive as I discern who I am and what I believe. Best of all, there is no expectation that I convert to Episcopalianism.\nThere is a Jesuit church near my house that organizes Lenten Ignatian retreats. Since I was raised to believe strongly in social justice and in discernment, which are both important in Ignatian theology, I signed up to participate. The group has only met once so far and I did not know anyone in advance, so I am curious what I will learn.\nLast year I had participated in a Lenten group led by the priest. By the end of Lent, the group was just the priest and me, which felt awkward mostly because the priest actively disagrees with half of what I say and fails to understand most of the rest. The point of the retreats is to learn together and build on each other’s observations, not shut people down by invalidating them.\nThe image below is of an angel I made over 15 years ago. I was living in Malawi at the time and had not brought a nativity set with me, so I made one. You can find the rest of the set on deviantArt.\n\n\n\nBeaded white angel doll"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/st patrick/index.html",
+    "href": "posts/st patrick/index.html",
+    "title": "St Patrick’s Day Lenten Reflection",
     "section": "",
-    "text": "My name is Abby Stamm. I am an artist, computer programmer, writer, and civil servant living in Minnesota. I grew up on a farm and have lived in several states and countries. I have studied a little of everything, most recently epidemiology. I enjoy writing and creating art around themes of religion, identity, culture, and animals."
+    "text": "We are in week two of the Ignatian lenten retreat. Today I’m going to focus on one of my reflections in week one, though. My favorite activities in the retreat are when we imagine ourselves in the scene. We can be anyone, Jesus, another named (or unnamed) character, or a random bystander. I most enjoy being a random bystander and thinking about, as myself (a self-insert?) I am there and what my reaction would be were I to experience whatever is happening.\nMy favorite activity in week one was on day four, when we were assigned to read Matthew 3:13-17 and instructed to imagine ourselves watching John the Baptist and Jesus. In my vision, I went to the riverbank to learn what John had to say. People had been talking about him and his teachings in my village and I was curious. I have no intention of being baptized, though; I’m terrified of water and whatever fauna may lurk beneath the surface.\nWhile we are listening to John, his cousin shows up. We’ve seen him around; they seem to get on well and enjoy teasing each other. I am not there to listen to their banter, though. I tire quickly of their “Baptize me”, “No, you baptize me” and am thinking about leaving when John finally decides to humor his cousin. I’ll give him points for showmanship, though. He timed it for just as the sun is breaking through the clouds. If only I could figure out how he managed that creepy disembodied voice shouting about a beloved son.\nI think my dissatisfaction with the Catholic church right now heavily colored my reading. I do enjoy the image of Jesus and John teasing each other like siblings, though. It makes them more three-dimensional for me, more relatable.\nThe image below is of a green striped zebra I made while living in Malawi. I’m guessing it was the dry season and I was tired of the dusty brown everywhere.\n\n\n\nBeaded green and white zebra sculpture"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -28,11 +28,25 @@
     "text": "I work at the state department of health. While I was trained as a health educator and epidemiologist, I do neither of those right now. I may write later about some of the work I am doing.\nIn this blog, I plan to focus on activities outside of work, such as my art, Toastmasters, and church activities. I may also write about local events and activities with family and friends.\nThe image below is of an HIV virus I made 10 years ago, when I believed after graduation I would find another job in HIV work. (Spoiler: I did not.)\n\n\n\nBeaded orange sculpture of an HIV virus"
   },
   {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
+    "objectID": "Readme.html",
+    "href": "Readme.html",
+    "title": "Stamm Musings",
+    "section": "",
+    "text": "This is the repo for my blog, which can be found at https://ajstamm.github.io/musings/\nIt’s mostly an excuse to learn quarto better, and a place to write reflections that are off-topic for mu other social media sites."
+  },
+  {
+    "objectID": "Readme.html#my-blog",
+    "href": "Readme.html#my-blog",
+    "title": "Stamm Musings",
+    "section": "",
+    "text": "This is the repo for my blog, which can be found at https://ajstamm.github.io/musings/\nIt’s mostly an excuse to learn quarto better, and a place to write reflections that are off-topic for mu other social media sites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am an artist, computer programmer, writer, and civil servant."
+    "text": "My name is Abby Stamm. I am an artist, computer programmer, writer, and civil servant living in Minnesota. I grew up on a farm and have lived in several states and countries. I have studied a little of everything, most recently epidemiology. I enjoy writing and creating art around themes of religion, identity, culture, and animals."
   },
   {
     "objectID": "about.html#myself",
@@ -61,12 +75,5 @@
     "title": "About",
     "section": "My medium",
     "text": "My medium\nI am writing this blog in quarto and posting it through GitHub. I use R and markdown (including quarto) extensively for work, so I am familiar with quarto and git structure. If you’re interested in R, you can find my R packages and training resources on my GitHub account."
-  },
-  {
-    "objectID": "posts/lent activities/index.html",
-    "href": "posts/lent activities/index.html",
-    "title": "Celebrating Lent",
-    "section": "",
-    "text": "I was raised in and east-coast Roman Catholic university community. Since leaving that small progressive enclave, I’ve struggled to find a Catholic church where I feel welcome to be myself, or in some cases welcome at all. Here in the twin cities, I stopped trying. Now I attend an Episcopal church near my house. I have found them to be welcoming and supportive as I discern who I am and what I believe. Best of all, there is no expectation that I convert to Episcopalianism.\nThere is a Jesuit church near my house that organizes Lenten Ignatian retreats. Since I was raised to believe strongly in social justice and in discernment, which are both important in Ignatian theology, I signed up to participate. The group has only met once so far and I did not know anyone in advance, so I am curious what I will learn.\nLast year I had participated in a Lenten group led by the priest. By the end of Lent, the group was just the priest and me, which felt awkward mostly because the priest actively disagrees with half of what I say and fails to understand most of the rest. The point of the retreats is to learn together and build on each other’s observations, not shut people down by invalidating them.\nThe image below is of an angel I made over 15 years ago. I was living in Malawi at the time and had not brought a nativity set with me, so I made one. You can find the rest of the set on deviantArt.\n\n\n\nBeaded white angel doll"
   }
 ]
