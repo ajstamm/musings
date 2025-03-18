@@ -2,7 +2,7 @@
 title: "Celebrating Lent"
 author: "Abby Stamm"
 date: "2025-03-17"
-categories: [religion]
+categories: [religion, catholic, lent]
 image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f94db2db-b96a-432a-94d7-028d717c10a1/d1wow7b-ce384790-5b2a-46c5-b03f-be42b664d554.jpg/v1/fill/w_845,h_946,q_70,strp/beaded_nativity_angel_by_anabiyeni_d1wow7b-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTg0IiwicGF0aCI6IlwvZlwvZjk0ZGIyZGItYjk2YS00MzJhLTk0ZDctMDI4ZDcxN2MxMGExXC9kMXdvdzdiLWNlMzg0NzkwLTViMmEtNDZjNS1iMDNmLWJlNDJiNjY0ZDU1NC5qcGciLCJ3aWR0aCI6Ijw9ODc5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.e8d8ZfqnOUq2GhbHcFyw2wS0qb9qt2e4JIB9YRNVmlc
 ---
 

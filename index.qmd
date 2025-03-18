@@ -1,5 +1,5 @@
 ---
-title: "Stamm Musings"
+title: "Musings"
 listing:
   contents: posts
   sort: "date desc"
