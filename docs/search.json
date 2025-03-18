@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Stamm Musings",
+    "title": "Musings",
     "section": "",
-    "text": "Celebrating Lent\n\n\n\n\n\n\nreligion\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\nAbby Stamm\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 16, 2025\n\n\nAbby Stamm\n\n\n\n\n\n\nNo matching items"
+    "text": "Celebrating Lent\n\n\n\n\n\n\nreligion\n\n\ncatholic\n\n\nlent\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\nAbby Stamm\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 16, 2025\n\n\nAbby Stamm\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am an artist, computer programmer, writer, and civil servant. I grew up on a farm and have lived in several states and countries. I have studied a little of everything, most recently epidemiology. I enjoy writing and creating art around themes of religion, identity, culture, and animals."
+    "text": "My name is Abby Stamm. I am an artist, computer programmer, writer, and civil servant living in Minnesota. I grew up on a farm and have lived in several states and countries. I have studied a little of everything, most recently epidemiology. I enjoy writing and creating art around themes of religion, identity, culture, and animals."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -39,7 +39,7 @@
     "href": "about.html#myself",
     "title": "About",
     "section": "",
-    "text": "I am an artist, computer programmer, writer, and civil servant. I grew up on a farm and have lived in several states and countries. I have studied a little of everything, most recently epidemiology. I enjoy writing and creating art around themes of religion, identity, culture, and animals."
+    "text": "My name is Abby Stamm. I am an artist, computer programmer, writer, and civil servant living in Minnesota. I grew up on a farm and have lived in several states and countries. I have studied a little of everything, most recently epidemiology. I enjoy writing and creating art around themes of religion, identity, culture, and animals."
   },
   {
     "objectID": "about.html#my-purpose",
@@ -53,14 +53,14 @@
     "href": "about.html#my-goal",
     "title": "About",
     "section": "My goal",
-    "text": "My goal\nI have accounts on deviantArt for my artwork and on AO3 for my poetry. I will be using several of my beadwork pieces as blog imges. Most of these, and others like them, are posted on deviantArt.\nWhile I may reference my work posted elesewhere, my goal with this blog is to write journal-type reflective pieces, maybe short stories (sometimes fictionalized, to protect privacy) about my daily experiences. I do not know how frequently I will update or what themes will emerge as I write."
+    "text": "My goal\nI will use several of my art pieces as blog imges. Most of these, and others like them, are posted on deviantArt. I may sometimes write about my art and poetry here. Some of my poetry can be found at Archive of our own.\nWhile I may reference my work posted elsewhere, my goal with this blog is to write journal-type reflective pieces, maybe short stories about my daily experiences. I do not know how frequently I will update or what themes will emerge as I write."
   },
   {
     "objectID": "about.html#my-medium",
     "href": "about.html#my-medium",
     "title": "About",
     "section": "My medium",
-    "text": "My medium\nI am writing this blog in quarto and posting it through GitHub. I use R and markdown (including quarto) extensively for work. If you’re interested in R, you can find some of my packages and training resources on my GitHub account."
+    "text": "My medium\nI am writing this blog in quarto and posting it through GitHub. I use R and markdown (including quarto) extensively for work, so I am familiar with quarto and git structure. If you’re interested in R, you can find my R packages and training resources on my GitHub account."
   },
   {
     "objectID": "posts/lent activities/index.html",
