@@ -10,15 +10,15 @@ about:
     - icon: github
       text: Github
       href: https://github.com/ajstamm
-    - text: "![deviantArt](images/da-icon-mini.png) dA"
+    - text: "![deviantArt](images/da-icon-mini.png)"
       href: https://deviantart.com/anabiyeni
-    - text: "![AO3](images/ao3-icon-mini.png) AO3"
+    - text: "![AO3](images/ao3-icon-mini.png)"
       href: https://archiveofourown.org/users/ajstamm
 ---
 
 ## Myself
 
-My name is Abby Stamm. I am an artist, computer programmer, writer, and civil servant living in Minnesota. I grew up on a farm and have lived in several states and countries. I have studied a little of everything, most recently epidemiology. I enjoy writing and creating art around themes of religion, identity, culture, and animals.
+My name is Abby Stamm. I am an artist, computer programmer, writer, and civil servant living in Minnesota. I grew up on a farm and have lived in several states and countries. I have studied a little of everything, most recently epidemiology. I enjoy writing and creating art around themes of religion, identity, culture, and animals. 
 
 ## My purpose
 
@@ -26,9 +26,9 @@ I have wanted for years to start a blog, where I could write about whatever has 
 
 ## My goal
 
-I have accounts on [deviantArt](https://deviantart.com/anabiyeni) for my artwork and on [AO3](https://archiveofourown.org/users/ajstamm) for my poetry. I will be using several of my beadwork pieces as blog imges. Most of these, and others like them, are posted on deviantArt. I may sometimes write about my poetry here.
+I will use several of my art pieces as blog imges. Most of these, and others like them, are posted on [deviantArt](https://deviantart.com/anabiyeni). I may sometimes write about my art and poetry here. Some of my poetry can be found at [Archive of our own](https://archiveofourown.org/users/ajstamm).
 
-While I may reference my work posted elsewhere, my goal with this blog is to write journal-type reflective pieces, maybe short stories (sometimes fictionalized, to protect privacy) about my daily experiences. I do not know how frequently I will update or what themes will emerge as I write.
+While I may reference my work posted elsewhere, my goal with this blog is to write journal-type reflective pieces, maybe short stories about my daily experiences. I do not know how frequently I will update or what themes will emerge as I write.
 
 ## My medium
 
