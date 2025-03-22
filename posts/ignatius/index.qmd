@@ -1,5 +1,5 @@
 ---
-title: "Lenten Retreat Week One"
+title: "Lenten Retreat Introduction"
 author: "Abby Stamm"
 date: "2025-03-16"
 categories: [religion, catholic, lent]
