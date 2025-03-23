@@ -1,8 +1,8 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 website:
-  title: "Stamm Musings"
+  title: "Where the branches meet the roots"
   navbar:
     right:
       - about.qmd
