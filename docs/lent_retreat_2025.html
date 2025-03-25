@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Where the branches meet the roots</title>
+<title>Series: Lent 2025 imaginative readings – Where the branches meet the roots</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,9 +30,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -65,15 +68,73 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -113,52 +174,124 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page">
+      <h1 class="title">Series: Lent 2025 imaginative readings</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-solana column-body">
-  <div class="about-entity">
-    <div class="entity-contents">
-      <header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Where the branches meet the roots</h1>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header> <div class="about-links">
-  <a href="https://linkedin.com/in/abigailstamm" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://github.com/ajstamm" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="https://deviantart.com/anabiyeni" class="about-link" rel="" target="">
-     <span class="about-link-text"><img src="images/da-icon-mini.png" class="img-fluid" alt="deviantArt"></span>
-  </a>
-  <a href="https://archiveofourown.org/users/ajstamm" class="about-link" rel="" target="">
-     <span class="about-link-text"><img src="images/ao3-icon-mini.png" class="img-fluid" alt="AO3"></span>
-  </a>
-</div>
-      <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>My name is Abby Stamm. I am an artist, computer programmer, writer, and civil servant living in Minnesota. I grew up on a farm and have lived in several states and countries. I have studied a little of everything, most recently epidemiology. I enjoy writing and creating art around themes of religion, identity, culture, and animals.</p>
-<p>I have wanted for years to start a blog, where I could write about whatever has most recently caught my attention. (My family has wanted me to start one ever since receiving my letters home from the Pace Corps twenty years ago.) I moved to Minnesota a little over a year ago to start a new job as an informatician and joined a religious community that is not the one in which I was raised. I have been making new friends and learning new things about myself and how I identify.</p>
-<p>My goal with this blog is to write journal-type reflective pieces, maybe short stories about my daily experiences. I do not know yet how frequently I will update or what themes will emerge as I write.</p>
-<p>I am writing this blog in quarto and posting it through GitHub. I use R and markdown (including quarto) extensively for work, so I am familiar with quarto and git structure. If you’re interested in R, you can find my R packages and training resources on my <a href="https://github.com/ajstamm">GitHub</a> account.</p>
-<p>The painting is by my grandmother, Erdine Timberlake Stamm. She gifted it to me when I was a child because I loved that tree, which grew outside my grandparents’ house in Raleigh, NC. It hangs on the wall in my home office now.</p>
-<p>I will use several of my own art pieces as blog imges. Most of my art is posted on <a href="https://deviantart.com/anabiyeni">deviantArt</a>.</p>
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
 
 
-</main></div>
-    </div>
-    <img src="images/erdine-tree-raleigh-mini.jpg" class="about-image
-  rounded " style="width: 15em;">
-  </div>
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="religion,catholic,lent" data-listing-date-sort="1742788800000" data-listing-file-modified-sort="1742873000624" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="524">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/lent_retreat_2025/cana.html" class="no-external">Wedding at Cana</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/lent_retreat_2025/cana.html" class="no-external"></a>
 </div>
- <!-- /main -->
+<div class="listing-description">
+<a href="./posts/lent_retreat_2025/cana.html" class="no-external">My favorite activity this week was the reading from John 2:1-12. This was another “Imagine yourself in the scene” activity. I imagined myself gossiping with the agogos…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/lent_retreat_2025/cana.html" class="no-external">
+<div class="listing-date">
+Mar 24, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="religion,catholic,lent" data-listing-date-sort="1742616000000" data-listing-file-modified-sort="1742873020292" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/lent_retreat_2025/capernaum.html" class="no-external">Boat to Capernaum</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/lent_retreat_2025/capernaum.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./posts/lent_retreat_2025/capernaum.html" class="no-external">This week also saw a reading from John 6:16-21. This was another “Imagine yourself in the scene” activity. I get motion sick very easily. I found myself reliving crossing…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/lent_retreat_2025/capernaum.html" class="no-external">
+<div class="listing-date">
+Mar 22, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="religion,catholic,lent" data-listing-date-sort="1742356800000" data-listing-file-modified-sort="1742873060733" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="395">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/lent_retreat_2025/zebedee.html" class="no-external">Jesus calls the fishermen</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/lent_retreat_2025/zebedee.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./posts/lent_retreat_2025/zebedee.html" class="no-external">The week of my dad’s birthday is always hard for me. I miss his support and advice. I miss the way he would listen to whatever I was struggling with, then without judgment…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/lent_retreat_2025/zebedee.html" class="no-external">
+<div class="listing-date">
+Mar 19, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="religion,lent,catholic" data-listing-date-sort="1742184000000" data-listing-file-modified-sort="1742873035582" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="330">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/lent_retreat_2025/patrick.html" class="no-external">Jesus is baptised</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/lent_retreat_2025/patrick.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./posts/lent_retreat_2025/patrick.html" class="no-external">We are in week two of the Ignatian lenten retreat. Today I’m going to focus on one of my reflections in week one, though. My favorite activities in the retreat are when we…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/lent_retreat_2025/patrick.html" class="no-external">
+<div class="listing-date">
+Mar 17, 2025
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -179,6 +312,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

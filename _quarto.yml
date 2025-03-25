@@ -15,7 +15,7 @@ website:
       - icon: rss
         href: blog.xml
       - text: Archive
-        href: posts/archive.qmd
+        href: archive.qmd
 format:
   html:
     theme: cosmo

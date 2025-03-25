@@ -14,6 +14,6 @@ title-block-banner: images/water-tree-root.jpg
 
 # Series
 
-[Lent 2025 Imaginative Readings](posts/lent_retreat_2025)
+[Lent 2025 Imaginative Readings](lent_retreat_2025.html)
 
 
