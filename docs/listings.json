@@ -1,10 +1,13 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/blog.html",
     "items": [
-      "/posts/capernaum/index.html",
-      "/posts/zebedee/index.html",
-      "/posts/patrick/index.html",
+      "/posts/archive.html",
+      "/posts/lent_retreat_2025/index.html",
+      "/posts/lent_retreat_2025/cana.html",
+      "/posts/lent_retreat_2025/capernaum.html",
+      "/posts/lent_retreat_2025/zebedee.html",
+      "/posts/lent_retreat_2025/patrick.html",
       "/posts/ignatius/index.html",
       "/posts/welcome/index.html"
     ]

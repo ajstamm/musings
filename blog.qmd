@@ -1,0 +1,19 @@
+---
+title: "Scribblings"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+page-layout: full
+title-block-banner: images/water-tree-root.jpg
+---
+
+# Series
+
+[Lent 2025 Imaginative Readings](posts/lent_retreat_2025)
+
+

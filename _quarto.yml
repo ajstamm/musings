@@ -3,12 +3,19 @@ project:
   output-dir: docs
 website:
   title: "Where the branches meet the roots"
+  site-url: https://ajstamm.github.io/musings/
+  image: images/water-tree-root.jpg
   navbar:
     right:
-      - about.qmd
+      - text: Blog
+        href: blog.qmd
       - icon: github
         text: GitHub
         href: https://github.com/ajstamm
+      - icon: rss
+        href: blog.xml
+      - text: Archive
+        href: posts/archive.qmd
 format:
   html:
     theme: cosmo
