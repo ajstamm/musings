@@ -9,7 +9,7 @@ listing:
   filter-ui: true
   feed: true
 page-layout: full
-title-block-banner: images/water-tree-root.jpg
+title-block-banner: images/water-tree-root-mosaic.png
 ---
 
 # Series
