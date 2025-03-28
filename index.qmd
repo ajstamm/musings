@@ -10,10 +10,10 @@ about:
     - icon: github
       text: Github
       href: https://github.com/ajstamm
-    - icon: /images/da-logo.ico
+    - icon: images/da-logo
       text: deviantArt
       href: https://deviantart.com/anabiyeni
-    - icon: /images/ao3-logo.ico
+    - icon: images/ao3-logo
       text: AO3
       href: https://archiveofourown.org/users/ajstamm
 title-block-banner: images/water-tree-root-mosaic.png

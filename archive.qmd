@@ -4,6 +4,7 @@ page-layout: full
 listing:
   contents: posts/**/*.qmd
   type: default
-  fields: [date, title]
+  fields: [date, title, tags]
   sort: 'date desc'
+title-block-banner: images/water-tree-root-mosaic.png
 ---
