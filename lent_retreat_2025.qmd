@@ -9,5 +9,5 @@ listing:
   filter-ui: false
   fields: [date, title, description]
 page-layout: full
-title-block-banner: images/water-tree-root-mosaic.png
+title-block-banner: /images/water-tree-root-mosaic.png
 ---
