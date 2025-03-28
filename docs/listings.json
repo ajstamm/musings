@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/lent_retreat_2025/tiberias.html",
       "/posts/lent_retreat_2025/cana.html",
       "/posts/lent_retreat_2025/capernaum.html",
       "/posts/lent_retreat_2025/zebedee.html",
@@ -19,6 +20,7 @@
     "items": [
       "/posts/lent_retreat_2025/cana.html",
       "/posts/lent_retreat_2025/capernaum.html",
+      "/posts/lent_retreat_2025/tiberias.html",
       "/posts/lent_retreat_2025/zebedee.html",
       "/posts/lent_retreat_2025/patrick.html",
       "/posts/ignatius/index.html",
@@ -30,6 +32,7 @@
     "items": [
       "/posts/lent_retreat_2025/cana.html",
       "/posts/lent_retreat_2025/capernaum.html",
+      "/posts/lent_retreat_2025/tiberias.html",
       "/posts/lent_retreat_2025/zebedee.html",
       "/posts/lent_retreat_2025/patrick.html"
     ]

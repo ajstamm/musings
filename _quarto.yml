@@ -2,9 +2,10 @@ project:
   type: website
   output-dir: docs
 website:
+  favicon: images/blog-logo.ico
   title: "Where the branches meet the roots"
   site-url: https://ajstamm.github.io/musings/
-  image: images/water-tree-root.jpg
+  image: images/water-tree-root-mosaic.png
   navbar:
     right:
       - text: Blog
