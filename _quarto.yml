@@ -19,8 +19,11 @@ website:
         href: archive.qmd
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo
+      dark: darkly
     css: styles.css
+title-block-banner: images/water-tree-root-mosaic.png
 
 
 
