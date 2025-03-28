@@ -3,7 +3,7 @@ title: "Jesus calls the fishermen"
 author: "Abby Stamm"
 date: "2025-03-19"
 categories: [religion, catholic, lent]
-image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f94db2db-b96a-432a-94d7-028d717c10a1/d1wl521-c02b7f45-c746-4a6b-b14e-2babb2dd533b.jpg/v1/fit/w_600,h_253,q_70,strp/beaded_school_of_fishes_by_anabiyeni_d1wl521-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjUzIiwicGF0aCI6IlwvZlwvZjk0ZGIyZGItYjk2YS00MzJhLTk0ZDctMDI4ZDcxN2MxMGExXC9kMXdsNTIxLWMwMmI3ZjQ1LWM3NDYtNGE2Yi1iMTRlLTJiYWJiMmRkNTMzYi5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.eJjVZpTmgeNq3YCVPSdUBe-KKxX8xn5rHqZX07Oxk0k
+image: images/beaded_fishes.jpg
 ---
   
 The week of my dad's birthday is always hard for me. I miss his support and advice. I miss the way he would listen to whatever I was struggling with, then without judgment, he'd ask, "What do you think?" When I was maybe ten he asked me, "Did God create humans or did humans create God?" I have been thinking about that question as I work through the Ignatian exercises.
@@ -15,4 +15,4 @@ The activity asked, "How do you feel about being included with those called to f
 The image below is of a school of tiny fishes I made while living in Malawi. Read more about it on [deviantArt](https://www.deviantart.com/anabiyeni/art/Beaded-school-of-fishes-115200217). Many of these fish were later regifted to random friends. Challenge: can you find the two Disney fish below?
 
 
-![Beaded school of fish](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f94db2db-b96a-432a-94d7-028d717c10a1/d1wl521-c02b7f45-c746-4a6b-b14e-2babb2dd533b.jpg/v1/fit/w_600,h_253,q_70,strp/beaded_school_of_fishes_by_anabiyeni_d1wl521-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjUzIiwicGF0aCI6IlwvZlwvZjk0ZGIyZGItYjk2YS00MzJhLTk0ZDctMDI4ZDcxN2MxMGExXC9kMXdsNTIxLWMwMmI3ZjQ1LWM3NDYtNGE2Yi1iMTRlLTJiYWJiMmRkNTMzYi5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.eJjVZpTmgeNq3YCVPSdUBe-KKxX8xn5rHqZX07Oxk0k)
+![Beaded school of fish](images/beaded_fishes.jpg)

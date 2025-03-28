@@ -5,7 +5,7 @@
 freeze: false
 
 # Enable banner style title blocks
-title-block-banner: true
+title-block-banner: ../images/water_tree_root_mosaic.png
 
 author: Abby Stamm
 
