@@ -1,0 +1,61 @@
+---
+title: Volunteer Work
+about: 
+  template: solana
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/abigailstamm
+    - icon: github
+      text: Github
+      href: https://github.com/ajstamm
+    - icon: images/da-logo
+      text: deviantArt
+      href: https://deviantart.com/anabiyeni
+    - icon: images/ao3-logo
+      text: AO3
+      href: https://archiveofourown.org/users/ajstamm
+    - text: itch.io
+      href: https://ajstamm.itch.io/
+title-block-banner: images/water-tree-root-mosaic.png
+---
+
+
+St Clement's Church, St Paul, MN
+
+* St Clement's Cohort Member, Transforming Hearts Contemplative Prayer Program, Episcopal House of Prayer, January 2025 - present
+* Soundboard Operator, Audio/Video Ministry, January 2025 - present
+
+
+Local Health Department Academy of Science
+
+* Minnesota State Librarian, August 2023 - present
+* National Conference Organizer, 2024 - present
+
+
+
+R User Group, Minnesota Department of Health, St Paul, MN
+
+* Trainer, annual R Camp workshops, 2023 - present
+* Coordinator, R Camp, 2024
+
+
+Epidemiology and Biostatistics Community of Practice, New York State Department of Health, Albany, NY
+
+* Co-chair, June 2022 - July 2023
+* Learning Pathways Coordinator for ArcGIS, Python, SQL, Tableau, and manuscript writing workshops, Fall 2018 - Spring 2020, Fall 2022 - Summer 2023
+* Trainer, biannual R programming workshops, Spring 2017 - Fall 2019
+
+Toastmasters International, Albany, NY
+
+* District 53 Toastmasters: Pathways Guide and Ambassador, January - August 2018 
+* Empire Toastmasters: Vice President Education,  July 2017 - June 2018
+* Capital Advanced Toastmasters: Sergeant at Arms,  July 2017 - June 2018
+
+
+Graduate Student Association, University at Albany, Albany, NY
+
+* Graduate Student Representative, Globalization Workgroup, SUNY Albany Strategic Planning Committee, 2017 - 2018
+* Assembly Speaker, 2017 - 2018
+* School of Public Health Assembly Representative, 2015 - 2017
+

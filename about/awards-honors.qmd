@@ -1,0 +1,40 @@
+---
+title: Awards and Honors
+about: 
+  template: solana
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/abigailstamm
+    - icon: github
+      text: Github
+      href: https://github.com/ajstamm
+    - icon: images/da-logo
+      text: deviantArt
+      href: https://deviantart.com/anabiyeni
+    - icon: images/ao3-logo
+      text: AO3
+      href: https://archiveofourown.org/users/ajstamm
+    - text: itch.io
+      href: https://ajstamm.itch.io/
+title-block-banner: images/water-tree-root-mosaic.png
+---
+
+
+
+
+## Work awards
+
+* *Quarter 4 Star Honors Award – Team Galaxy*. Minnesota Department of Health, St Paul, MN, October 2024.
+* *Top 3 Finalist – One Minnesota Budget Implementation Award, Technology Champions category: Legislative Dashboard Team*. Minnesota Management and Budget, St Paul, MN, July 2024.
+* *Commissioner's Recognition Award for Inter-Agency or Intra-Agency Cooperation: Governor's Cancer Research Initiative Team*. New York State Department of Health, Albany, NY, December 2019.
+
+
+
+## Toastmasters International awards
+
+* Competent Communicator
+* Advanced Communicator Bronze
+* Competent Leader
+* Advanced Leader Bronze
+

@@ -1,0 +1,51 @@
+---
+title: Publications and Software
+about: 
+  template: solana
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/abigailstamm
+    - icon: github
+      text: Github
+      href: https://github.com/ajstamm
+    - icon: images/da-logo
+      text: deviantArt
+      href: https://deviantart.com/anabiyeni
+    - icon: images/ao3-logo
+      text: AO3
+      href: https://archiveofourown.org/users/ajstamm
+    - text: itch.io
+      href: https://ajstamm.itch.io/
+title-block-banner: images/water-tree-root-mosaic.png
+---
+
+## Research
+
+Stamm, A (2023). [*Association of Prenatal Exposure to Air Pollutants with Select Birth Defects Using the Case-Cohort Approach*](https://github.com/ajstamm/apcmpkg/blob/main/documents/Astamm_dissertation_manuscript.pdf) [Doctoral dissertation, University at Albany]. ProQuest Dissertations and Theses Global.
+
+Stamm, A, Savadatti, S, Kumar, S, & Hwang, S (2017). [*A spatial analysis of acute myocardial infarction rates in New York State in relation to hospitals along state jurisdictional borders*](https://journals.lww.com/jphmp/abstract/2017/09001/a_spatial_analysis_of_acute_myocardial_infarction.7.aspx). Journal Of Public Health Management And Practice, 23(5), S39-S44. doi:10.1097/PHH.0000000000000596
+
+## Software
+
+Kvale, E, & Stamm, A (2024). *Legislative Dashboard*. Minnesota Department of Health. Internal R Shiny dashboard.
+
+Stamm, A, & Babcock, G (2023). [*gatpkg: Geographic Aggregation Tool (GAT)*](https://github.com/nytracking/gatpkg). R package version 2.0.0. 
+
+Stamm, A (2023). [*carvedpumpkin: Carve a jack-o-lantern*](https://github.com/ajstamm/carvedpumpkin). R package version 0.1.0. 
+
+## Games
+
+Stamm, A (2022). [*Alone Among the Sheep*](https://ajstamm.itch.io/alone-among-the-sheep). Entry for Lone Wolf Solo TTRPG Jam. 
+
+Stamm, A (2021). [*Shepherd's Crook*](https://ajstamm.itch.io/shepherds-crook). Entry for Lost & Found Jam. 
+
+Stamm, A (2021). [*Perennial Garden*](https://github.com/ajstamm/blinks_public/tree/main/perennial_garden). Entry for Global Game Jam, Blinks category. 
+
+
+## Other work
+
+I have been posting my poetry on [Archive of Our Own](https://archiveofourown.org/users/ajstamm). 
+
+I have written a few other items during my time with Toastmasters and Peace Corps and a couple more games that I may post on [Itch.io](https://ajstamm.itch.io). If I do, I will list them here.
+

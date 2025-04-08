@@ -1,0 +1,54 @@
+---
+title: Presentations
+about: 
+  template: solana
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/abigailstamm
+    - icon: github
+      text: Github
+      href: https://github.com/ajstamm
+    - icon: images/da-logo
+      text: deviantArt
+      href: https://deviantart.com/anabiyeni
+    - icon: images/ao3-logo
+      text: AO3
+      href: https://archiveofourown.org/users/ajstamm
+    - text: itch.io
+      href: https://ajstamm.itch.io/
+title-block-banner: images/water-tree-root-mosaic.png
+---
+
+
+## Conference presentations, posters, and workshops
+
+
+Stamm, A, Muscatiello, N, & Hsu, W (2021). [Accounting for demographics in geographic aggregation](https://github.com/ajstamm/gatpkg/blob/master/presentations/NYS_GAT_PHC_2021.pdf ). Place & Health Conference 2021. Virtual, November 16, 2021. 
+
+Stamm, A (2021). [gatpkg: Developing a geographic aggregation tool in R for non-programmers](https://www.youtube.com/watch?v=r_wRMpqZcE8). useR! 2021. Virtual, July 6, 2021. 
+
+Stamm, A (2021). [Geographic Aggregation Tool (GAT): A method for handling small numbers when calculating disease rates](https://youtu.be/BRxhay4FhGI?t=1096). NAHDO Conference 2020. Virtual, August 25, 2020. 
+
+
+## Work Presentations
+
+Stamm, A. Cold related mortality in New York State. CDC NEPHT Cold-Related Illness Workgroup Call. Virtual, August 11, 2021.
+
+Stamm, A. Geographic Aggregation Tool (GAT): An introduction and demonstration. NYSDOH BEOE Bureau Seminar. Virtual, February 18, 2021.
+
+Stamm, A, & Babcock, G. Demonstration of the Geographic Aggregation Tool. CDC NEPHT Geo Aggregation Workgroup Call. Virtual, March 9, 2020.
+
+Rai, A, Stamm, A, & Babcock, G. NYS EPHT: Geographic Aggregation Development Process. CDC NEPHT SND Workgroup Call. Virtual, October 3, 2019.
+
+
+## School and community presentations
+
+Stamm, A. Introduction to Pathways. District 53 Toastmasters Leadership Institute. Schenectady, NY, July 13, 2018.
+
+Stamm, A. Sanctuary Campus Movement. National Association of Graduate and Professional Students Northwest Region Conference, Columbia University, New York City, NY, April 8, 2017.
+
+Stamm, A. Rape Myths: What About Him? Great Dane Talks, University at Albany, Albany, NY, April 25, 2016.
+
+
+

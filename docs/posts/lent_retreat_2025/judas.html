@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Abby Stamm">
+<meta name="dcterms.date" content="2025-04-07">
 
-<title>Scribblings – Where the branches meet the roots</title>
+<title>Judas’ betrayal – Where the branches meet the roots</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +25,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./images/blog-logo.ico" rel="icon">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/blog-logo.ico" rel="icon">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,75 +71,16 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <style>
 
       .quarto-title-block .quarto-title-banner {
-        background-image: url(images/water-tree-root-mosaic.png);
-background-size: cover;
+        background: ../images/water_tree_root_mosaic.png;
       }
 </style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Where the branches meet the roots" href="blog.xml" data-external="1"></head>
+<link rel="stylesheet" href="../../styles.css">
+</head>
 
 <body class="nav-fixed">
 
@@ -148,7 +89,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Where the branches meet the roots</span>
     </a>
   </div>
@@ -159,7 +100,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./blog.html" aria-current="page"> 
+    <a class="nav-link" href="../../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
@@ -168,12 +109,12 @@ window.Quarto = {
 <span class="menu-text">GitHub</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./blog.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../blog.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./archive.html"> 
+    <a class="nav-link" href="../../archive.html"> 
 <span class="menu-text">Archive</span></a>
   </li>  
 </ul>
@@ -187,385 +128,67 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Scribblings</h1>
-                      </div>
+    <div class="quarto-title column-body">
+      <h1 class="title">Judas’ betrayal</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">religion</div>
+                <div class="quarto-category">catholic</div>
+                <div class="quarto-category">lent</div>
+                <div class="quarto-category">work</div>
+              </div>
+                  </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Abby Stamm </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">April 7, 2025</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(8)</span></div><div class="category" data-category="catholic">catholic <span class="quarto-category-count">(7)</span></div><div class="category" data-category="lent">lent <span class="quarto-category-count">(7)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(1)</span></div><div class="category" data-category="religion">religion <span class="quarto-category-count">(7)</span></div><div class="category" data-category="work">work <span class="quarto-category-count">(1)</span></div></div></div>
-<!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
-
-
-
-
-
-<section id="series" class="level1">
-<h1>Series</h1>
-<p><a href="lent_retreat_2025.html">Lent 2025 Imaginative Readings</a></p>
-</section>
-<section id="posts" class="level1">
-<h1>Posts</h1>
-
-
-
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
     </div>
-</div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="religion,catholic,lent,work" data-listing-date-sort="1743998400000" data-listing-file-modified-sort="1744083786538" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="555">
-<div class="thumbnail">
-<p><a href="./posts/lent_retreat_2025/judas.html" class="no-external"></a></p><a href="./posts/lent_retreat_2025/judas.html" class="no-external">
-<p><img loading="lazy" src="./posts/lent_retreat_2025/images/beaded_enshonga_stable.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/lent_retreat_2025/judas.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/lent_retreat_2025/judas.html" class="no-external">Judas’ betrayal</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/lent_retreat_2025/judas.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('religion'); return false;">
-religion
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('catholic'); return false;">
-catholic
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('lent'); return false;">
-lent
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('work'); return false;">
-work
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/lent_retreat_2025/judas.html" class="no-external">My reading for today was from Mark 14:43-52. This was an “Imagine yourself in the scene” activity from last year’s retreat. I chose it today because I’ve been thinking about…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/lent_retreat_2025/judas.html" class="no-external">
-<div class="listing-date">
-Apr 7, 2025
-</div>
-<div class="listing-author">
-Abby Stamm
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="religion,catholic,lent" data-listing-date-sort="1743048000000" data-listing-file-modified-sort="1743177977623" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="430">
-<div class="thumbnail">
-<p><a href="./posts/lent_retreat_2025/tiberias.html" class="no-external"></a></p><a href="./posts/lent_retreat_2025/tiberias.html" class="no-external">
-<p><img loading="lazy" src="./posts/lent_retreat_2025/images/beaded_pastel_dragon.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/lent_retreat_2025/tiberias.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/lent_retreat_2025/tiberias.html" class="no-external">Sermon on the mountain</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/lent_retreat_2025/tiberias.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('religion'); return false;">
-religion
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('catholic'); return false;">
-catholic
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('lent'); return false;">
-lent
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/lent_retreat_2025/tiberias.html" class="no-external">This week has been difficult at work. Decisions from higher-ups have left me feeling bewildered, uncertain, and unvalued. My interpretation of the reading I chose for today…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/lent_retreat_2025/tiberias.html" class="no-external">
-<div class="listing-date">
-Mar 27, 2025
-</div>
-<div class="listing-author">
-Abby Stamm
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="religion,catholic,lent" data-listing-date-sort="1742788800000" data-listing-file-modified-sort="1743177830084" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="530">
-<div class="thumbnail">
-<p><a href="./posts/lent_retreat_2025/cana.html" class="no-external"></a></p><a href="./posts/lent_retreat_2025/cana.html" class="no-external">
-<p><img loading="lazy" src="./posts/lent_retreat_2025/images/beaded_grape.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/lent_retreat_2025/cana.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/lent_retreat_2025/cana.html" class="no-external">Wedding at Cana</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/lent_retreat_2025/cana.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('religion'); return false;">
-religion
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('catholic'); return false;">
-catholic
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('lent'); return false;">
-lent
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/lent_retreat_2025/cana.html" class="no-external">My favorite activity this week was the reading from John 2:1-12. This was another “Imagine yourself in the scene” activity. I imagined myself gossiping with the agogos…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/lent_retreat_2025/cana.html" class="no-external">
-<div class="listing-date">
-Mar 24, 2025
-</div>
-<div class="listing-author">
-Abby Stamm
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="religion,catholic,lent" data-listing-date-sort="1742616000000" data-listing-file-modified-sort="1743177887134" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="322">
-<div class="thumbnail">
-<p><a href="./posts/lent_retreat_2025/capernaum.html" class="no-external"></a></p><a href="./posts/lent_retreat_2025/capernaum.html" class="no-external">
-<p><img loading="lazy" src="./posts/lent_retreat_2025/images/beaded_longboat.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/lent_retreat_2025/capernaum.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/lent_retreat_2025/capernaum.html" class="no-external">Boat to Capernaum</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/lent_retreat_2025/capernaum.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('religion'); return false;">
-religion
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('catholic'); return false;">
-catholic
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('lent'); return false;">
-lent
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/lent_retreat_2025/capernaum.html" class="no-external">This week also saw a reading from John 6:16-21. This was another “Imagine yourself in the scene” activity. I get motion sick very easily. I found myself reliving crossing…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/lent_retreat_2025/capernaum.html" class="no-external">
-<div class="listing-date">
-Mar 22, 2025
-</div>
-<div class="listing-author">
-Abby Stamm
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="religion,catholic,lent" data-listing-date-sort="1742356800000" data-listing-file-modified-sort="1743178020332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="413">
-<div class="thumbnail">
-<p><a href="./posts/lent_retreat_2025/zebedee.html" class="no-external"></a></p><a href="./posts/lent_retreat_2025/zebedee.html" class="no-external">
-<p><img loading="lazy" src="./posts/lent_retreat_2025/images/beaded_fishes.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/lent_retreat_2025/zebedee.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/lent_retreat_2025/zebedee.html" class="no-external">Jesus calls the fishermen</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/lent_retreat_2025/zebedee.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('religion'); return false;">
-religion
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('catholic'); return false;">
-catholic
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('lent'); return false;">
-lent
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/lent_retreat_2025/zebedee.html" class="no-external">The week of my dad’s birthday is always hard for me. I miss his support and advice. I miss the way he would listen to whatever I was struggling with, then without judgment…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/lent_retreat_2025/zebedee.html" class="no-external">
-<div class="listing-date">
-Mar 19, 2025
-</div>
-<div class="listing-author">
-Abby Stamm
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="religion,lent,catholic" data-listing-date-sort="1742184000000" data-listing-file-modified-sort="1743177938792" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="337">
-<div class="thumbnail">
-<p><a href="./posts/lent_retreat_2025/patrick.html" class="no-external"></a></p><a href="./posts/lent_retreat_2025/patrick.html" class="no-external">
-<p><img loading="lazy" src="./posts/lent_retreat_2025/images/beaded_green_zebra.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/lent_retreat_2025/patrick.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/lent_retreat_2025/patrick.html" class="no-external">Jesus is baptised</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/lent_retreat_2025/patrick.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('religion'); return false;">
-religion
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('lent'); return false;">
-lent
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('catholic'); return false;">
-catholic
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/lent_retreat_2025/patrick.html" class="no-external">We are in week two of the Ignatian lenten retreat. Today I’m going to focus on one of my reflections in week one, though. My favorite activities in the retreat are when we…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/lent_retreat_2025/patrick.html" class="no-external">
-<div class="listing-date">
-Mar 17, 2025
-</div>
-<div class="listing-author">
-Abby Stamm
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="religion,catholic,lent" data-listing-date-sort="1742097600000" data-listing-file-modified-sort="1743177641936" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="261">
-<div class="thumbnail">
-<p><a href="./posts/ignatius/index.html" class="no-external"></a></p><a href="./posts/ignatius/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/ignatius/beaded_angel.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/ignatius/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ignatius/index.html" class="no-external">Lenten activities</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/ignatius/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('religion'); return false;">
-religion
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('catholic'); return false;">
-catholic
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('lent'); return false;">
-lent
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/ignatius/index.html" class="no-external">I was raised in and east-coast Roman Catholic university community. Since leaving that small progressive enclave, I’ve struggled to find a Catholic church where I feel…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/ignatius/index.html" class="no-external">
-<div class="listing-date">
-Mar 16, 2025
-</div>
-<div class="listing-author">
-Abby Stamm
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="7" data-categories="news" data-listing-date-sort="1742011200000" data-listing-file-modified-sort="1743947885793" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="240">
-<div class="thumbnail">
-<p><a href="./posts/welcome/index.html" class="no-external"></a></p><a href="./posts/welcome/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/welcome/beaded_hiv.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/welcome/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/welcome/index.html" class="no-external">Welcome To My Blog</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/welcome/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/welcome/index.html" class="no-external">I work at the state department of health. While I was trained as a health educator and epidemiologist, I do neither of those right now. I may write later about some of the…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/welcome/index.html" class="no-external">
-<div class="listing-date">
-Mar 15, 2025
-</div>
-<div class="listing-author">
-Abby Stamm
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+
+<p>My reading for today was from Mark 14:43-52. This was an “Imagine yourself in the scene” activity from last year’s retreat. I chose it today because I’ve been thinking about it all week. Two wees ago, a few friends were laid off from work overnight - called in the evening and told not to show up for work the next day, and by the way, their accounts were already deactivated with no chance to hand over any of their outstanding work. Last week, more friends received emails about midday informing them that they had been laid off and they had half an hour for handover before their accounts would be deactivated. Still more friends will not know their fate until next week.</p>
+<p>I work for the state department of health. These layoffs immediately followed the federal government’s decision to withhold “COVID” funds, citing nonsense about the COVID pandemic being over. First, the COVID pandemic is not over. Second, those funds were not just being used for COVID. They were funding desperately needed data infrastructure and disease surveillance improvements. Surveillance that included monitoring outbreaks of Measles, Bird Flu, and other infectious diseases.</p>
+<p>In Minnesota, from what I understand, the two divisions most impacted by the loss of those funds were the infectious disease division and the data strategy and interoperability office, where I work. The loss of so many staff in these divisions has already started to adversely impact the work of local public health, tribal health, and the residents of Minnesota. We can only guess what the long-term impact will be as we struggle to stabilize existing infrastructure and maintain relationships.</p>
+<p>I chose this reading, of Judas betraying Jesus, because I feel much like I imagine Jesus feels here, betrayed by someone he trusted and trying to remain calm and keep his followers calm. We have been betrayed by the federal government. We feel angry, but violence is not the answer. Like Jesus, we are watching decades of public health work crumble, hastened along by people wo do not value public health, who do not care about the marginalized, the very people Jesus and the prophets before him preached to protect. The federal government is trying to erase data on women, people of color, members of the LGBTQ+ community, people with disabilities, and those experiencing environmental injustice, in short anyone who is not a rich white cisgender male. Jesus was not rich or white and 2000 years ago, the concept of cisgender did not exist.</p>
+<p>In some apocryphal stories, Judas repented. I pray that the leaders of this country, like Judas, will one day realize and understand the harm they have caused. In the meantime, I pray that those of us left in public health can find ways to continue our work to protect and preserve the health of the people in our communities, especially those who are most marginalized.</p>
+<p>The image below is of the cat I had in Uganda, Enshonga the terror, attacking the horse stable I had worked so hard to make. My goal that night was to take a photograph of my art to send home to my parents, but Enshonga had other ideas. Her wanton disregard for the hard work I put into my art fits the mood at work right now. Read more about this piece on <a href="https://www.deviantart.com/anabiyeni/art/My-cat-attacked-my-stable-181609113">deviantArt</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/beaded_enshonga_stable.jpg" class="img-fluid figure-img"></p>
+<figcaption>pet cat attacks beaded horse stable</figcaption>
+</figure>
+</div>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -1129,6 +752,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
 });
+</script>
+<script src="https://utteranc.es/client.js" repo="ajstamm/musing_comments" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
 </script>
 </div> <!-- /content -->
 
