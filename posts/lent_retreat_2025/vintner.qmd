@@ -1,5 +1,5 @@
 ---
-title: "Vineyard Tenants"
+title: "Vineyard tenants"
 author: "Abby Stamm"
 date: "2025-04-10"
 categories: [religion, lent, catholic]
