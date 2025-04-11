@@ -26,7 +26,7 @@ My name is Abby Stamm. I am an artist, computer programmer, writer, and civil se
 
 I am writing this blog in quarto and posting it through GitHub. I use R and markdown (including quarto) extensively for work, so I am familiar with quarto and git structure. If you're interested in R, you can find my R packages and training resources on my [GitHub](https://github.com/ajstamm) account.
 
-The painting is by my grandmother, Erdine Timberlake Stamm. She gifted it to me when I was a child because I loved that tree, which grew outside my grandparents' house in Raleigh, NC. It hangs on the wall in my home office now.
+The painting is by my grandmother, Erdine Timberlake Stamm. She gifted it to me when I was a child because I loved that tree, which grew outside my grandparents' house in Raleigh, NC. It hangs on the wall in my home office now. The banner is a photograph that my father took when I was in middle school of the partially submerged islands in Kerr Reservoir, Virginia.
 
 I will use several of my own art pieces as blog images. Most of my art is posted on [deviantArt](https://deviantart.com/anabiyeni). If you'd like to learn more about my work, check these links:
 
