@@ -2,7 +2,8 @@
 title: "Brainstorming poetry"
 author: "Abby Stamm"
 date: "2025-05-31"
-categories: [technology, creative writing]
+categories: 
+  - technology
 image: beaded_rainbow_spider.jpg
 ---
 
