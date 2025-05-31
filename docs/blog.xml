@@ -14,8 +14,37 @@
 <title>Where the branches meet the roots</title>
 <link>https://ajstamm.github.io/musings/blog.html</link>
 </image>
-<generator>quarto-1.5.57</generator>
-<lastBuildDate>Sat, 17 May 2025 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Sat, 31 May 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Brainstorming poetry</title>
+  <dc:creator>Abby Stamm</dc:creator>
+  <link>https://ajstamm.github.io/musings/posts/mind_mapping/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This week my first reflection was due for the contemplative prayer group. The assignment: a 700 word essay, a five-minute video, or an art piece with a 100-word description. My solution: a poem, <a href="https://archiveofourown.org/works/66018598">A moment in prayer (on AO3)</a>.</p>
+<p>I knew early on that I wanted to write something focused on the experience of contemplative prayer, a more sensory or emotional version of <a href="../contemplative_202505/">my last blog post</a> and I thought poetry would work well for that. The issue: I had a page full of random disjointed phrases and rhyme pairs that were stubbornly refusing to work together. So I set it aside for a couple days.</p>
+<p>During the Memorial Day weekend sales I ordered a new computer (the one I’m typing on now), so I spent some time going through programs on my old computer, removing software I no longer use and saving a list to <a href="https://obsidian.md/">Obsidian</a> of the software I wanted to install on this computer, starting with <a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a> and of course Obsidian.</p>
+<p>I found two pieces of software I had used for my dissertation, Scapple and Scrivener, both by <a href="https://www.literatureandlatte.com/">Literature &amp; Latte</a>. Scrivener is great for mapping out elements of an essay or story, where each element may have a lot of details. I find it easier to organize for that kind of thing than Obsidian. Scapple is designed for mind-mapping, which it does very well. It can also be used to map process flows and design layouts if necessary.</p>
+<p>On a whim, I typed my random lines of poetry into Scapple. In my notebook, I’d written a couple possible words to provide starting letters for acrostics, so I laid out the letters in a column on the left. Next, I considered words to start lines and placed those lines beside the relevant letters. I still struggled with exact wording, keeping focus and verb tense consistent, and the rhyme scheme I wanted, but being able to move lines around helped bring everything together fairly easily. It was much easier than cutting up pieces of paper and cross out hand-written words, then revert to the crossed out words (if they were still legible at that point) when I changed my mind.</p>
+<p>When I was satisfied with the results, copying the relevant lines en masse to paste them to Obsidian (where I organize all my poetry) and then to <a href="https://archiveofourown.org/">Archive of our own (AO3)</a> was straightforward. Takeaway: if you’re having trouble organizing ideas for a poem, try an unexpected solution like mind-mapping, and if you want to try Scapple, it’s free for 30 days. Other reasons I like Scapple are that it’s a small file and a lifetime license is inexpensive (I am not a fan of subscription models), so I didn’t need to repurchase it for my new computer.</p>
+<p>The next reflective piece is due in September. I’m curious what form it will take. If you’ve visited my <a href="https://www.deviantart.com/anabiyeni">deviantArt account</a> you probably know my primary medium is beadwork and lately I’ve been sculpting a lot with <a href="https://www.getspeks.com/">Speks</a>. I’d like my next piece to be visual, using one of those media, or if I’m really ambitious, crochet, which I have been learning.</p>
+<p>The image below is a beaded rainbow-colored spider. Read more about it and see my other beadwork on <a href="https://www.deviantart.com/anabiyeni/art/Beaded-rainbow-spider-122495223">deviantArt</a>. I chose this spider partly because mind-mapping makes me think webs and partly because Pride Month starts tomorrow.</p>
+<p><img src="https://ajstamm.github.io/musings/posts/mind_mapping/beaded_rainbow_spider.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>technology</category>
+  <category>creative writing</category>
+  <guid>https://ajstamm.github.io/musings/posts/mind_mapping/</guid>
+  <pubDate>Sat, 31 May 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://ajstamm.github.io/musings/posts/mind_mapping/beaded_rainbow_spider.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Healthcare and contemplative prayer</title>
   <dc:creator>Abby Stamm</dc:creator>
@@ -60,7 +89,7 @@
   <category>religion</category>
   <category>health</category>
   <guid>https://ajstamm.github.io/musings/posts/contemplative_202505/</guid>
-  <pubDate>Sat, 17 May 2025 04:00:00 GMT</pubDate>
+  <pubDate>Sat, 17 May 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/contemplative_202505/plush_hermette.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -92,7 +121,7 @@
   <category>religion</category>
   <category>volunteer</category>
   <guid>https://ajstamm.github.io/musings/posts/church_sale_2025/</guid>
-  <pubDate>Mon, 05 May 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 05 May 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/church_sale_2025/beaded_seda_bookmark.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -105,7 +134,7 @@
 
 
 
-<p>Work has decided to rescind the at-risk letters, properly evaluate who they can afford to lose across the department of health, and resend letters on Easter Monday. For better or worse, at least thy are following the union contract now. The language in the union contract is outdated and does ot apply to the reality at work. It stipulated that people whose jobs are being terminated can steal jobs from people with the same job classification, but lower seniority. The problem is “Research scientist” can mean bench scientist, informatician, data manager, epidemiologist, data analyst, and computer programmer. Most people are not more than two of those things, but in theory, an epidemiologist who has never worked in a lab could steal the job of a bench scientist. HR decide entirely on their own based only on minimum qualifications, with no input from relevant supervisors.</p>
+<p>Human Resources (HR) at work has decided to rescind the at-risk letters, properly evaluate who they can afford to lose across the department of health, and resend layoff letters on Easter Monday. For better or worse, at least they are following the union contract now. The language in the union contract is outdated and does ot apply to the reality at work. It stipulated that people whose jobs are being terminated can steal jobs from people with the same job classification, but lower seniority. The problem is “Research scientist” can mean bench scientist, informatician, data manager, epidemiologist, data analyst, and computer programmer. Most people are not more than two or three of those things, but in theory, as the contract is written, an epidemiologist who has never worked in a lab could steal the job of a bench scientist. HR decide entirely on their own based only on minimum qualifications, with no input from relevant supervisors.</p>
 <p>We all anticipate any job stealing will go badly and lead to even more chaos than that introduced first by the botched at-risk letters, then in the next few weeks by the mass layoffs (not to mention the 120 people who have already been laid off and whose work halted overnight). I’m feeling especially jaded as I try to continue the Lenten readings.</p>
 <p>My reading today was from Matthew 27:27-31. This was another “Imagine yourself in the scene” activity. I am watching, perhaps as a Roman soldier, or a slave, someone without power or agency of my own. Other soldiers drag Jesus into the room, strip him, and dress him in a military tunic. I think as a revolutionary and a threat to Roman rule, they see him as a soldier, anyway. The crown and reed feel over the top and tell me far more about them and their fears and insecurities than they do about Jesus, who refuses to respond to their bullying. Then, bullying unsuccessful and victim unprovoked, they claim back the tunic and return his clothes.</p>
 <p>The discussion questions fall flat for me.</p>
@@ -128,7 +157,7 @@
   <category>catholic</category>
   <category>lent</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/thorns.html</guid>
-  <pubDate>Tue, 15 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Tue, 15 Apr 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_camels.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -162,7 +191,7 @@
   <category>lent</category>
   <category>work</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/gethsemane.html</guid>
-  <pubDate>Fri, 11 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 11 Apr 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_paris_wildflower.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -196,7 +225,7 @@
   <category>lent</category>
   <category>catholic</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/vintner.html</guid>
-  <pubDate>Thu, 10 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Thu, 10 Apr 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_oxcart.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -230,7 +259,7 @@
   <category>lent</category>
   <category>work</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/judas.html</guid>
-  <pubDate>Mon, 07 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 07 Apr 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_enshonga_stable.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -262,7 +291,7 @@
   <category>catholic</category>
   <category>lent</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/tiberias.html</guid>
-  <pubDate>Thu, 27 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Thu, 27 Mar 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_pastel_dragon.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -294,7 +323,7 @@
   <category>catholic</category>
   <category>lent</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/cana.html</guid>
-  <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 24 Mar 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_grape.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -313,7 +342,7 @@
 <p>The image below is of a Viking longboat made of Delica beads. Read more about it on <a href="https://www.deviantart.com/anabiyeni/art/Beaded-Viking-Longboat-416620779">deviantArt</a>. I made it about 15 years after I spent a semester in Denmark studying Nordic culture and history.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_;ongboat.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_longboat.jpg" class="img-fluid figure-img"></p>
 <figcaption>Beaded viking longboat</figcaption>
 </figure>
 </div>
@@ -325,7 +354,7 @@
   <category>catholic</category>
   <category>lent</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/capernaum.html</guid>
-  <pubDate>Sat, 22 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Sat, 22 Mar 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_longboat.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -356,7 +385,7 @@
   <category>catholic</category>
   <category>lent</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/zebedee.html</guid>
-  <pubDate>Wed, 19 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 19 Mar 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_fishes.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -388,7 +417,7 @@
   <category>lent</category>
   <category>catholic</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/patrick.html</guid>
-  <pubDate>Mon, 17 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 17 Mar 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_green_zebra.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -419,7 +448,7 @@
   <category>catholic</category>
   <category>lent</category>
   <guid>https://ajstamm.github.io/musings/posts/ignatius/</guid>
-  <pubDate>Sun, 16 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Sun, 16 Mar 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/ignatius/beaded_angel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -448,7 +477,7 @@
  ]]></description>
   <category>news</category>
   <guid>https://ajstamm.github.io/musings/posts/welcome/</guid>
-  <pubDate>Sat, 15 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Sat, 15 Mar 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/welcome/beaded_hiv.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>

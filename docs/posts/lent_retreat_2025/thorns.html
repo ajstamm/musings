@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -38,12 +38,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-ddd961a2510921635943dfbbd19534c4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-ae2d0dcda2edce4ab590422bb373b64f.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -172,7 +172,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>Work has decided to rescind the at-risk letters, properly evaluate who they can afford to lose across the department of health, and resend letters on Easter Monday. For better or worse, at least thy are following the union contract now. The language in the union contract is outdated and does ot apply to the reality at work. It stipulated that people whose jobs are being terminated can steal jobs from people with the same job classification, but lower seniority. The problem is “Research scientist” can mean bench scientist, informatician, data manager, epidemiologist, data analyst, and computer programmer. Most people are not more than two of those things, but in theory, an epidemiologist who has never worked in a lab could steal the job of a bench scientist. HR decide entirely on their own based only on minimum qualifications, with no input from relevant supervisors.</p>
+<p>Human Resources (HR) at work has decided to rescind the at-risk letters, properly evaluate who they can afford to lose across the department of health, and resend layoff letters on Easter Monday. For better or worse, at least they are following the union contract now. The language in the union contract is outdated and does ot apply to the reality at work. It stipulated that people whose jobs are being terminated can steal jobs from people with the same job classification, but lower seniority. The problem is “Research scientist” can mean bench scientist, informatician, data manager, epidemiologist, data analyst, and computer programmer. Most people are not more than two or three of those things, but in theory, as the contract is written, an epidemiologist who has never worked in a lab could steal the job of a bench scientist. HR decide entirely on their own based only on minimum qualifications, with no input from relevant supervisors.</p>
 <p>We all anticipate any job stealing will go badly and lead to even more chaos than that introduced first by the botched at-risk letters, then in the next few weeks by the mass layoffs (not to mention the 120 people who have already been laid off and whose work halted overnight). I’m feeling especially jaded as I try to continue the Lenten readings.</p>
 <p>My reading today was from Matthew 27:27-31. This was another “Imagine yourself in the scene” activity. I am watching, perhaps as a Roman soldier, or a slave, someone without power or agency of my own. Other soldiers drag Jesus into the room, strip him, and dress him in a military tunic. I think as a revolutionary and a threat to Roman rule, they see him as a soldier, anyway. The crown and reed feel over the top and tell me far more about them and their fears and insecurities than they do about Jesus, who refuses to respond to their bullying. Then, bullying unsuccessful and victim unprovoked, they claim back the tunic and return his clothes.</p>
 <p>The discussion questions fall flat for me.</p>
@@ -417,8 +417,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -529,7 +527,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
