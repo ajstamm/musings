@@ -1,6 +1,7 @@
 ---
 title: Where the branches meet the roots
 image: images/erdine-tree-raleigh-mini.jpg
+image-alt: Tree painted by my grandmother
 about: 
   template: solana
   links:
