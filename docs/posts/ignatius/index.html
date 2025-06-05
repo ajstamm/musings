@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -38,12 +38,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-ddd961a2510921635943dfbbd19534c4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-ae2d0dcda2edce4ab590422bb373b64f.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -101,17 +101,17 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="../../blog.html"> 
-<span class="menu-text">Blog</span></a>
+<span class="menu-text">Musings blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://github.com/ajstamm"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/ajstamm/musings"> <i class="bi bi-github" role="img">
 </i> 
-<span class="menu-text">GitHub</span></a>
+<span class="menu-text">Website GitHub</span></a>
   </li>  
-  <li class="nav-item compact">
+  <li class="nav-item">
     <a class="nav-link" href="../../blog.xml"> <i class="bi bi-rss" role="img">
 </i> 
-<span class="menu-text"></span></a>
+<span class="menu-text">RSS feed</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../archive.html"> 
@@ -174,12 +174,8 @@ ul.task-list li input[type="checkbox"] {
 <p>There is a Jesuit church near my house that organizes Lenten Ignatian retreats. Since I was raised to believe strongly in social justice and in discernment, which are both important in Ignatian theology, I signed up to participate. The group has only met once so far and I did not know anyone in advance, so I am curious what I will learn.</p>
 <p>Last year I had participated in a Lenten group led by the priest. By the end of Lent, the group was just the priest and me, which felt awkward mostly because the priest actively disagreed with half of what I said and failed to understand most of the rest. The point of the retreats is to learn together and build on each other’s observations, not shut people down by invalidating them.</p>
 <p>The image below is of an angel I made over 15 years ago. Read more about it on <a href="https://www.deviantart.com/anabiyeni/art/Beaded-nativity-angel-115375367">deviantArt</a>. I was living in Malawi at the time and had not brought a nativity set with me, so I made one.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="beaded_angel.jpg" class="img-fluid figure-img"></p>
-<figcaption>Beaded white angel doll</figcaption>
-</figure>
-</div>
+<p><img src="beaded_angel.jpg" class="img-fluid" alt="Beaded white angel doll"><br>
+</p>
 
 
 
@@ -320,7 +316,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  const darkModeDefault = false;
+  const darkModeDefault = true;
   let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
@@ -410,6 +406,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -520,6 +518,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

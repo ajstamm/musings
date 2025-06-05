@@ -8,11 +8,11 @@ website:
   image: images/water-tree-root-mosaic.png
   navbar:
     right:
-      - text: Blog
+      - text: Musings blog
         href: blog.qmd
       - icon: github
-        text: GitHub
-        href: https://github.com/ajstamm
+        text: Website GitHub
+        href: https://github.com/ajstamm/musings
       - icon: rss
         text: RSS feed
         href: blog.xml
@@ -20,9 +20,10 @@ website:
         href: archive.qmd
 format:
   html:
+    respect-user-color-scheme: true
     theme: 
-      light: cosmo
       dark: darkly
+      light: cosmo
     css: styles.css
 title-block-banner: images/water-tree-root-mosaic.png
 
