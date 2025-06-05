@@ -2,12 +2,13 @@
 title: "Church rummage sale 2025 edition"
 author: "Abby Stamm"
 date: "2025-05-05"
-categories: [religion, volunteer]
+categories: 
+  - volunteer
 image: beaded_seda_bookmark.jpg
 image-alt: Beaded bookmark with the letters S E D A on colorful blocks
 ---
 
-This past week I was at my church after work nearly every day helping with the church rummage sale. I got to learn all about everything that goes into the sale from dragging shelves and hangers and garment racks from the storage room to putting tablecloths on the "treasures" tables for items like jewelry and fine china, to organizing books in the library and clothes in the choir room. 
+This past week I was at my church after work nearly every day helping with their rummage sale. I got to learn all about everything that goes into the sale from dragging shelves and hangers and garment racks from the storage room to putting tablecloths on the "treasures" tables for items like jewelry and fine china, to organizing books in the library and clothes in the choir room. 
 
 I voted to put all trousers together and all shirts together irrespective of targeted gender since I couldn't differentiate "male" clothes from "female" clothes if my life depended on it. I guess one could assume (erroneously) that dresses are necessarily female, though robes and tunics are not, and they all get hung on the same garment rack anyway. I bought as many scarves as I donated.
 

@@ -1,0 +1,29 @@
+---
+title: "Brainstorming poetry"
+author: "Abby Stamm"
+date: "2025-05-31"
+categories: 
+  - technology
+image: beaded_rainbow_spider.jpg
+---
+
+This week my first reflection was due for the contemplative prayer group. The assignment: a 700 word essay, a five-minute video, or an art piece with a 100-word description. My solution: a poem, [A moment in prayer (on AO3)](https://archiveofourown.org/works/66018598).
+
+I knew early on that I wanted to write something focused on the experience of contemplative prayer, a more sensory or emotional version of [my last blog post](../contemplative_202505/) and I thought poetry would work well for that. The issue: I had a page full of random disjointed phrases and rhyme pairs that were stubbornly refusing to work together. So I set it aside for a couple days.
+
+During the Memorial Day weekend sales I ordered a new computer (the one I'm typing on now), so I spent some time going through programs on my old computer, removing software I no longer use and saving a list to [Obsidian](https://obsidian.md/) of the software I wanted to install on this computer, starting with [Firefox](https://www.mozilla.org/en-US/firefox/new/) and of course Obsidian. 
+
+I found two pieces of software I had used for my dissertation, Scapple and Scrivener, both by [Literature & Latte](https://www.literatureandlatte.com/). Scrivener is great for mapping out elements of an essay or story, where each element may have a lot of details. I find it easier to organize for that kind of thing than Obsidian. Scapple is designed for mind-mapping, which it does very well. It can also be used to map process flows and design layouts if necessary. 
+
+On a whim, I typed my random lines of poetry into Scapple. In my notebook, I'd written a couple possible words to provide starting letters for acrostics, so I laid out the letters in a column on the left. Next, I considered words to start lines and placed those lines beside the relevant letters. I still struggled with exact wording, keeping focus and verb tense consistent, and the rhyme scheme I wanted, but being able to move lines around helped bring everything together fairly easily. It was much easier than cutting up pieces of paper and cross out hand-written words, then revert to the crossed out words (if they were still legible at that point) when I changed my mind.
+
+When I was satisfied with the results, copying the relevant lines en masse to paste them to Obsidian (where I organize all my poetry) and then to [Archive of our own (AO3)](https://archiveofourown.org/) was straightforward. Takeaway: if you're having trouble organizing ideas for a poem, try an unexpected solution like mind-mapping, and if you want to try Scapple, it's free for 30 days. Other reasons I like Scapple are that it's a small file and a lifetime license is inexpensive (I am not a fan of subscription models), so I didn't need to repurchase it for my new computer.
+
+The next reflective piece is due in September. I'm curious what form it will take. If you've visited my [deviantArt account](https://www.deviantart.com/anabiyeni) you probably know my primary medium is beadwork and lately I've been sculpting a lot with [Speks](https://www.getspeks.com/). I'd like my next piece to be visual, using one of those media, or if I'm really ambitious, crochet, which I have been learning.
+
+
+
+
+The image below is a beaded rainbow-colored spider. Read more about it and see my other beadwork on [deviantArt](https://www.deviantart.com/anabiyeni/art/Beaded-rainbow-spider-122495223). I chose this spider partly because mind-mapping makes me think webs and partly because Pride Month starts tomorrow. 
+
+![](beaded_rainbow_spider.jpg)

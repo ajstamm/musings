@@ -2,7 +2,8 @@
 title: "Lenten activities"
 author: "Abby Stamm"
 date: "2025-03-16"
-categories: [religion, catholic, lent]
+categories: 
+  - catholic
 image: beaded_angel.jpg
 image-alt: Beaded white angel doll
 ---

@@ -2,12 +2,13 @@
 title: "Watching in the garden"
 author: "Abby Stamm"
 date: "2025-04-11"
-categories: [religion, catholic, lent, work]
+categories: 
+  - work
 image: images/beaded_paris_wildflower.jpg
 ---
 
 
-My reading for today was from Matthew 26:30-46. This was another "Imagine yourself in the scene" activity I chose it today because it's the first reading of Week 6. I've followed Jesus and his best friends to Gethsemane. I'm not sure why I'm here. I feel a bit like I'm encroaching on private friends' time and maybe I should leave. I suppose my curiosity is overcoming my sense of propriety.
+My reading for today was from Matthew 26:30-46. This was another "Imagine yourself in the scene" activity. I chose it today because it's the first reading of Week 6. I've followed Jesus and his best friends to Gethsemane. I'm not sure why I'm here. I feel a bit like I'm encroaching on private friends' time and maybe I should leave. I suppose my curiosity is overcoming my sense of propriety.
 
 Jesus asks his friends to keep watch before going to pray. They fall asleep, which means they don't notice me and chase me away. Jesus sounds upset, like every revolutionary ever. He has a mission that frustrates and angers and exhausts him, but he feels too strongly about it, identifies too strongly with it, to quit, despite the inherent dangers of being a revolutionary. So he's having an especially bad day, which makes sense if someone tipped him off that he'll be arrested today. Apparently it wasn't his best friends; I can't imagine they'd fall asleep if they expect he will be arrested today. 
 
@@ -19,5 +20,6 @@ I struggle with being aware of others and of my effect on them. However, if some
 
 The image below is of two horses from the Danish card game, Bella Sara. Paris is the armored horse on the left. Wildflower, the pony on the right, has flowers in her mane and tail. This pair feels appropriate for a Gethsemane scene. Read more about this pair on [deviantArt](https://www.deviantart.com/anabiyeni/art/Beaded-Bella-Sara-Paris-and-Wildflower-879625927).
 
+This post is part of my [Lent 2025 Imaginative Readings](https://ajstamm.github.io/musings/lent_retreat_2025.html) series.
 
 ![beaded horses Paris and Wildflower](images/beaded_paris_wildflower.jpg)

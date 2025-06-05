@@ -2,7 +2,8 @@
 title: "Welcome To My Blog"
 author: "Abby Stamm"
 date: "2025-03-15"
-categories: [news]
+categories: 
+  - news
 image: beaded_hiv.jpg
 ---
 

@@ -2,7 +2,8 @@
 title: "Boat to Capernaum"
 author: "Abby Stamm"
 date: "2025-03-22"
-categories: [religion, catholic, lent]
+categories: 
+  - catholic
 image: images/beaded_longboat.jpg
 ---
 
@@ -14,5 +15,6 @@ The activity asked, "How do you feel when you realize you are on the shore?" I w
 
 The image below is of a Viking longboat made of Delica beads. Read more about it on [deviantArt](https://www.deviantart.com/anabiyeni/art/Beaded-Viking-Longboat-416620779). I made it about 15 years after I spent a semester in Denmark studying Nordic culture and history.
 
+This post is part of my [Lent 2025 Imaginative Readings](https://ajstamm.github.io/musings/lent_retreat_2025.html) series.
 
 ![Beaded viking longboat](images/beaded_longboat.jpg)

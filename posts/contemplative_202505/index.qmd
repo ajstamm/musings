@@ -2,7 +2,8 @@
 title: "Healthcare and contemplative prayer"
 author: "Abby Stamm"
 date: "2025-05-17"
-categories: [religion, health]
+categories: 
+  - religion
 image: plush_hermette.jpg
 image-alt: Plush blue pony with nurse's hat and symbol
 ---
