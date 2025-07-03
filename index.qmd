@@ -20,6 +20,13 @@ about:
     - text: itch.io
       href: https://ajstamm.itch.io/
 title-block-banner: images/water-tree-root-mosaic.png
+format:
+  html:
+    respect-user-color-scheme: true
+    theme: 
+      dark: darkly
+      light: cosmo
+    css: styles.css
 ---
 
 

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -38,12 +38,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-ddd961a2510921635943dfbbd19534c4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-ae2d0dcda2edce4ab590422bb373b64f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -178,12 +178,8 @@ ul.task-list li input[type="checkbox"] {
 <p>Much as I don’t understand the tenants in this parable who ultimately and shortsightedly destroyed themselves, I don’t understand the entirely unnecessary and drawn-out trauma our leadership is inflicting on the Department of Health. It’s leading to distrust in leadership, burnout, fear, and fatigue among very talented, very hard-working staff, many of whom are veterans of COVID (myself included), who are now asking if maybe they should be looking for jobs elsewhere even if they did not get at-risk letters. The public health system here, and throughout the US, is suffering from insufficient capacity and cannot afford to lose any more good workers, so why is my department’s leadership trying to drive people away on top of the layoffs? I feel like one of the landlord’s slaves, unheard and unvalued.</p>
 <p>The image below is of a Malawian oxcart pulled by two European oxen. I made the oxcart and a couple zebus to pull it while serving in the Peace Corps. Seven years later, I finally photographed it, but I’d managed to lose the zebus in the interim. Read more about this set on <a href="https://www.deviantart.com/anabiyeni/art/Beaded-African-ox-cart-115200840">deviantArt</a>. I chose this image because the slaves had no agency and no idea what they were walking into, much like the cattle here.</p>
 <p>This post is part of my <a href="https://ajstamm.github.io/musings/lent_retreat_2025.html">Lent 2025 Imaginative Readings</a> series.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/beaded_oxcart.jpg" class="img-fluid figure-img"></p>
-<figcaption>Beaded oxcart pulled by two oxen</figcaption>
-</figure>
-</div>
+<p><img src="images/beaded_oxcart.jpg" class="img-fluid" alt="Beaded oxcart pulled by two oxen"><br>
+</p>
 
 
 
@@ -414,8 +410,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -526,7 +520,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

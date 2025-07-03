@@ -13,11 +13,39 @@
 <url>https://ajstamm.github.io/musings/images/water-tree-root-mosaic.png</url>
 <title>Where the branches meet the roots</title>
 <link>https://ajstamm.github.io/musings/blog.html</link>
-<height>13</height>
-<width>144</width>
 </image>
-<generator>quarto-1.5.57</generator>
-<lastBuildDate>Sat, 31 May 2025 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Thu, 03 Jul 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Trusted Tester</title>
+  <dc:creator>Abby Stamm</dc:creator>
+  <link>https://ajstamm.github.io/musings/posts/trusted_tester/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Last month, I finally completed the Section 508 Trusted Tester certification. The course was very long, with generally helpful examples for each test item. It went into a lot more detail about some of the Web Content Accessibility Guidelines (WCAGs) than any other WCAG website I’ve visited, which I found very helpful. The practice tests were full of example pages that usually did a decent job of illustrating the concepts. In general, I’m impressed by the work the developers put into it. What I did not like so much is that some of the content apparently does not work consistently across platforms and for the text size tests, it expects your computer display is at least 1920 x 1200. As a result, in some cases, my experiences (and those of others who posted in the course forum) did not match the expected answer.</p>
+<p>As I worked my way through the course, I ran the various checks on this blog. For the most part, this blog, which is mostly text anyway, does a decent job of meeting WCAGs, but I did find two notable places it fell short.</p>
+<ol type="1">
+<li>The image code I had copied over from markdown rendered images with captions instead of alt text. If the code had also put an empty string in place of the alt text (to avoid screen reader redundancy when the alt text and caption are the same), that might have been okay, but instead, the alt tag was missing entirely, so my images failed the test. I have now corrected them to contain alt text instead of captions. If I missed any, please let me know.</li>
+<li>In my titles, the text over the banner image had too little contrast with the image in both light and dark mode. This was trickier to solve because I really like my banner image and did not want to change it. Instead, I dug into custom style sheet (CSS) code for text shadows. I’m bad at CSS and worse at modifying (overriding?) quarto’s default CSS, so that took a couple days. I like the result, but if you find it too hard to read, please tell me.</li>
+</ol>
+<p>There are still a few other issues, such as lack of alt text for some default icons (notably the search icon). I will need to do more research on modifying quarto defaults before I can fix it.</p>
+<p>I also spent a lot of time reviewing audio-visual (A/V) WCAGs because I’ve been thinking about starting a podcast (short 3-5 minute speeches not unlike Toastmasters talks). It looks like the easiest thing to do would be to write out the script in advance, then use the script as the audio transcript. I’ll write more about it when I set it up.</p>
+<p>The image below is a beaded ladybug. Read more about it and see my other beadwork on <a href="https://www.deviantart.com/anabiyeni/art/Beaded-ladybug-122494796">deviantArt</a>. I chose this critter because I am thinking about bugs in my code.</p>
+<p><img src="https://ajstamm.github.io/musings/posts/trusted_tester/beaded_ladybug.jpg" class="img-fluid" alt="Beaded ladybug"><br>
+</p>
+
+
+
+ ]]></description>
+  <category>technology</category>
+  <guid>https://ajstamm.github.io/musings/posts/trusted_tester/</guid>
+  <pubDate>Thu, 03 Jul 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://ajstamm.github.io/musings/posts/trusted_tester/beaded_ladybug.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Brainstorming poetry</title>
   <dc:creator>Abby Stamm</dc:creator>
@@ -36,14 +64,15 @@
 <p>When I was satisfied with the results, copying the relevant lines en masse to paste them to Obsidian (where I organize all my poetry) and then to <a href="https://archiveofourown.org/">Archive of our own (AO3)</a> was straightforward. Takeaway: if you’re having trouble organizing ideas for a poem, try an unexpected solution like mind-mapping, and if you want to try Scapple, it’s free for 30 days. Other reasons I like Scapple are that it’s a small file and a lifetime license is inexpensive (I am not a fan of subscription models), so I didn’t need to repurchase it for my new computer.</p>
 <p>The next reflective piece is due in September. I’m curious what form it will take. If you’ve visited my <a href="https://www.deviantart.com/anabiyeni">deviantArt account</a> you probably know my primary medium is beadwork and lately I’ve been sculpting a lot with <a href="https://www.getspeks.com/">Speks</a>. I’d like my next piece to be visual, using one of those media, or if I’m really ambitious, crochet, which I have been learning.</p>
 <p>The image below is a beaded rainbow-colored spider. Read more about it and see my other beadwork on <a href="https://www.deviantart.com/anabiyeni/art/Beaded-rainbow-spider-122495223">deviantArt</a>. I chose this spider partly because mind-mapping makes me think webs and partly because Pride Month starts tomorrow.</p>
-<p><img src="https://ajstamm.github.io/musings/posts/mind_mapping/beaded_rainbow_spider.jpg" class="img-fluid"></p>
+<p><img src="https://ajstamm.github.io/musings/posts/mind_mapping/beaded_rainbow_spider.jpg" class="img-fluid" alt="Beaded rainbow spider"><br>
+</p>
 
 
 
  ]]></description>
   <category>technology</category>
   <guid>https://ajstamm.github.io/musings/posts/mind_mapping/</guid>
-  <pubDate>Sat, 31 May 2025 04:00:00 GMT</pubDate>
+  <pubDate>Sat, 31 May 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/mind_mapping/beaded_rainbow_spider.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -85,7 +114,7 @@
  ]]></description>
   <category>religion</category>
   <guid>https://ajstamm.github.io/musings/posts/contemplative_202505/</guid>
-  <pubDate>Sat, 17 May 2025 04:00:00 GMT</pubDate>
+  <pubDate>Sat, 17 May 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/contemplative_202505/plush_hermette.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -112,7 +141,7 @@
  ]]></description>
   <category>volunteer</category>
   <guid>https://ajstamm.github.io/musings/posts/church_sale_2025/</guid>
-  <pubDate>Mon, 05 May 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 05 May 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/church_sale_2025/beaded_seda_bookmark.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -135,19 +164,15 @@
 <p>At work, we are all suffering through the uncertainty and anxiety together. We are all trying to support each other and give each other grace even as we suffer ourselves. Then someone from HR will say, in effect, “Look at me! I’m sorry for the anxiety you feel, but not really, because it’s all about me! Don’t you feel sorry for me?” And we are all just staring at the latest email full of platitudes, or listening to the latest HR meeting (no chat, no Q&amp;A, no way for us to interact) full of more platitudes and think, “Feel sorry for you? When you won’t give us any straight answers and deliberately keep us uninformed? Are you mad?” I do not want to be like HR, ever. If someone is suffering, my focus should be on them, not me. Even if I am suffering, if they are, too, I would never want to expect their support, and if they offer it anyway, I should feel honored, not entitled.</p>
 <p>The image below is of two beaded camels wearing bridles and saddles. Read more about it on <a href="https://www.deviantart.com/anabiyeni/art/Beaded-costumed-camels-150233540">deviantArt</a>. I have very few beaded soldiers (Starfleet officers, a Romulan commander, and a knight from the show Merlin) and none of them are from Jesus’ time, so instead you get a a couple fancy camels that might have been part of Herod’s procession.</p>
 <p>This post is part of my <a href="https://ajstamm.github.io/musings/lent_retreat_2025.html">Lent 2025 Imaginative Readings</a> series.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_camels.jpg" class="img-fluid figure-img"></p>
-<figcaption>Beaded bedecked camels</figcaption>
-</figure>
-</div>
+<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_camels.jpg" class="img-fluid" alt="Beaded bedecked camels"><br>
+</p>
 
 
 
  ]]></description>
   <category>catholic</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/thorns.html</guid>
-  <pubDate>Tue, 15 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Tue, 15 Apr 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_camels.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -167,19 +192,15 @@
 <p>I struggle with being aware of others and of my effect on them. However, if someone points out how I hurt them or someone else, I contemplate their words. Then I make an effort to mitigate the harm. Often this means minding my words in the future, maybe an apology in the moment, something easy to do and easy to remember. I wish my country’s leaders would do at least that much.</p>
 <p>The image below is of two horses from the Danish card game, Bella Sara. Paris is the armored horse on the left. Wildflower, the pony on the right, has flowers in her mane and tail. This pair feels appropriate for a Gethsemane scene. Read more about this pair on <a href="https://www.deviantart.com/anabiyeni/art/Beaded-Bella-Sara-Paris-and-Wildflower-879625927">deviantArt</a>.</p>
 <p>This post is part of my <a href="https://ajstamm.github.io/musings/lent_retreat_2025.html">Lent 2025 Imaginative Readings</a> series.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_paris_wildflower.jpg" class="img-fluid figure-img"></p>
-<figcaption>beaded horses Paris and Wildflower</figcaption>
-</figure>
-</div>
+<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_paris_wildflower.jpg" class="img-fluid" alt="beaded horses Paris and Wildflower"><br>
+</p>
 
 
 
  ]]></description>
   <category>work</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/gethsemane.html</guid>
-  <pubDate>Fri, 11 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 11 Apr 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_paris_wildflower.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -200,19 +221,15 @@
 <p>Much as I don’t understand the tenants in this parable who ultimately and shortsightedly destroyed themselves, I don’t understand the entirely unnecessary and drawn-out trauma our leadership is inflicting on the Department of Health. It’s leading to distrust in leadership, burnout, fear, and fatigue among very talented, very hard-working staff, many of whom are veterans of COVID (myself included), who are now asking if maybe they should be looking for jobs elsewhere even if they did not get at-risk letters. The public health system here, and throughout the US, is suffering from insufficient capacity and cannot afford to lose any more good workers, so why is my department’s leadership trying to drive people away on top of the layoffs? I feel like one of the landlord’s slaves, unheard and unvalued.</p>
 <p>The image below is of a Malawian oxcart pulled by two European oxen. I made the oxcart and a couple zebus to pull it while serving in the Peace Corps. Seven years later, I finally photographed it, but I’d managed to lose the zebus in the interim. Read more about this set on <a href="https://www.deviantart.com/anabiyeni/art/Beaded-African-ox-cart-115200840">deviantArt</a>. I chose this image because the slaves had no agency and no idea what they were walking into, much like the cattle here.</p>
 <p>This post is part of my <a href="https://ajstamm.github.io/musings/lent_retreat_2025.html">Lent 2025 Imaginative Readings</a> series.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_oxcart.jpg" class="img-fluid figure-img"></p>
-<figcaption>Beaded oxcart pulled by two oxen</figcaption>
-</figure>
-</div>
+<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_oxcart.jpg" class="img-fluid" alt="Beaded oxcart pulled by two oxen"><br>
+</p>
 
 
 
  ]]></description>
   <category>catholic</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/vintner.html</guid>
-  <pubDate>Thu, 10 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Thu, 10 Apr 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_oxcart.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -232,19 +249,15 @@
 <p>In some apocryphal stories, Judas repented. I pray that the leaders of this country, like Judas, will one day realize and understand the harm they have caused. In the meantime, I pray that those of us left in public health can find ways to continue our work to protect and preserve the health of the people in our communities, especially those who are most marginalized.</p>
 <p>The image below is of the cat I had in Uganda, Enshonga the terror, attacking the horse stable I had worked so hard to make. My goal that night was to take a photograph of my art to send home to my parents, but Enshonga had other ideas. Her wanton disregard for the hard work I put into my art fits the mood at work right now. Read more about this piece on <a href="https://www.deviantart.com/anabiyeni/art/My-cat-attacked-my-stable-181609113">deviantArt</a>.</p>
 <p>This post is part of my <a href="https://ajstamm.github.io/musings/lent_retreat_2025.html">Lent 2025 Imaginative Readings</a> series.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_enshonga_stable.jpg" class="img-fluid figure-img"></p>
-<figcaption>pet cat attacks beaded horse stable</figcaption>
-</figure>
-</div>
+<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_enshonga_stable.jpg" class="img-fluid" alt="pet cat attacks beaded horse stable"><br>
+</p>
 
 
 
  ]]></description>
   <category>work</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/judas.html</guid>
-  <pubDate>Mon, 07 Apr 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 07 Apr 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_enshonga_stable.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -263,19 +276,15 @@
 <p>The activity asked, “In what way are you hungry?” I’m seeking a spiritual community that embodies the phrase “All are welcome” without shame or fear or discrimination or erasure, a community that meets people where they are and accepts them for who they are, even when the members don’t understand them. My favorite line in the Nicene Creed is “We believe in one holy catholic apostolic church”. That is the community I want, where what and how you believe don’t matter nearly as much as being part of the community and supporting and being supported by the community.</p>
 <p>The image below is of a beaded flying dragon-type serpent called an amphiptere. Read more about it on <a href="https://www.deviantart.com/anabiyeni/art/Beaded-pastel-amphiptere-118679559">deviantArt</a>. I wanted to pick an art piece more relevant to the story, but I’ve never made beaded bread and apparently I never posted my beaded basket online. Mountain made me think dragon, so here we are. Also, it’s spring (for a few days, until we get more snow) here in Minnesota, so pastel feels appropriate.</p>
 <p>This post is part of my <a href="https://ajstamm.github.io/musings/lent_retreat_2025.html">Lent 2025 Imaginative Readings</a> series.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_pastel_dragon.jpg" class="img-fluid figure-img"></p>
-<figcaption>Beaded flying serpent</figcaption>
-</figure>
-</div>
+<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_pastel_dragon.jpg" class="img-fluid" alt="Beaded flying serpent"><br>
+</p>
 
 
 
  ]]></description>
   <category>catholic</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/tiberias.html</guid>
-  <pubDate>Thu, 27 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Thu, 27 Mar 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_pastel_dragon.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -294,19 +303,15 @@
 <p>The activity asked, “How do you respond to Jesus turning water into wine?” Wary. That stunt served no purpose except maybe to irk his mother, who was concerned only for her friend’s reputation. Why was he so annoyed with her anyway? Because he knew her request was selfish? I don’t understand how this is a noteworthy miracle.</p>
 <p>The image below is of a wine charm I made years ago. Read more about it on <a href="https://www.deviantart.com/anabiyeni/art/Beaded-grape-wine-charm-133452420">deviantArt</a>. Around that time, my mother had complained we didn’t have enough wine charms for all of the guests at our winter solstice parties, where we’d serve glog made from dad’s homemade wine, so I made several wine charms from old necklace pendants and bracelet charms. This is one of maybe a dozen that I made out of beads, and one of the few that I have kept. I recall the wine glass had been part of a gift box of Harlequin romances. I kept the glass because I liked the color; I never got around to reading the books.</p>
 <p>This post is part of my <a href="https://ajstamm.github.io/musings/lent_retreat_2025.html">Lent 2025 Imaginative Readings</a> series.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_grape.jpg" class="img-fluid figure-img"></p>
-<figcaption>Wine glass with wine charm of beaded grapes</figcaption>
-</figure>
-</div>
+<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_grape.jpg" class="img-fluid" alt="Wine glass with wine charm of beaded grapes"><br>
+</p>
 
 
 
  ]]></description>
   <category>catholic</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/cana.html</guid>
-  <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 24 Mar 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_grape.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -324,19 +329,15 @@
 <p>The activity asked, “How do you feel when you realize you are on the shore?” I was grateful the seasickness passed quickly and I could finally focus on something other than my stomach and esophagus. Of course, by that time Jesus was long gone. Hearing the crew retell it - “How did you miss it?” they asked me - I thought they must have hallucinated. Then I went in search of beer (being generally safer to drink than water) to wash the bile out of my mouth.</p>
 <p>The image below is of a Viking longboat made of Delica beads. Read more about it on <a href="https://www.deviantart.com/anabiyeni/art/Beaded-Viking-Longboat-416620779">deviantArt</a>. I made it about 15 years after I spent a semester in Denmark studying Nordic culture and history.</p>
 <p>This post is part of my <a href="https://ajstamm.github.io/musings/lent_retreat_2025.html">Lent 2025 Imaginative Readings</a> series.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_longboat.jpg" class="img-fluid figure-img"></p>
-<figcaption>Beaded viking longboat</figcaption>
-</figure>
-</div>
+<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_longboat.jpg" class="img-fluid" alt="Beaded viking longboat"><br>
+</p>
 
 
 
  ]]></description>
   <category>catholic</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/capernaum.html</guid>
-  <pubDate>Sat, 22 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Sat, 22 Mar 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_longboat.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -354,19 +355,15 @@
 <p>The activity asked, “How do you feel about being included with those called to follow Jesus?” In the context of this reading, not good. I am not a young man and I don’t see myself in a group of young men. It isn’t lack of interest; I did the “how far will you go” thing with Peace Corps, and loved it. I’ve stood on the shores of Lake Victoria with people mending nets and I’ve hiked miles when no vehicle or bicycle taxi could be found. As much as I loved those days, I rarely miss them. I like my life now. In my imagination, I was content mending nets with Zebedee. Had I still been twenty-something and dreaming of Peace Corps, I might have run off with his sons instead, to be the token female in the group.</p>
 <p>The image below is of a school of tiny fishes I made while living in Malawi. Read more about it on <a href="https://www.deviantart.com/anabiyeni/art/Beaded-school-of-fishes-115200217">deviantArt</a>. Many of these fish were later regifted to random friends. Challenge: can you find the two Disney fish below?</p>
 <p>This post is part of my <a href="https://ajstamm.github.io/musings/lent_retreat_2025.html">Lent 2025 Imaginative Readings</a> series.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_fishes.jpg" class="img-fluid figure-img"></p>
-<figcaption>Beaded school of fish</figcaption>
-</figure>
-</div>
+<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_fishes.jpg" class="img-fluid" alt="Beaded school of fish"><br>
+</p>
 
 
 
  ]]></description>
   <category>catholic</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/zebedee.html</guid>
-  <pubDate>Wed, 19 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Wed, 19 Mar 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_fishes.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -385,19 +382,15 @@
 <p>I think my dissatisfaction with the Catholic church right now heavily colored my reading. I do enjoy the image of Jesus and John teasing each other like siblings, though. It makes them more three-dimensional for me, more relatable.</p>
 <p>The image below is of a green striped zebra I made while living in Malawi. Read more about it on <a href="https://www.deviantart.com/anabiyeni/art/Beaded-green-zebra-133388049">deviantArt</a>. I’m guessing it was the dry season and I was tired of the dusty brown everywhere.</p>
 <p>This post is part of my <a href="https://ajstamm.github.io/musings/lent_retreat_2025.html">Lent 2025 Imaginative Readings</a> series.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_green_zebra.jpg" class="img-fluid figure-img"></p>
-<figcaption>Beaded green and white zebra sculpture</figcaption>
-</figure>
-</div>
+<p><img src="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_green_zebra.jpg" class="img-fluid" alt="Beaded green and white zebra sculpture"><br>
+</p>
 
 
 
  ]]></description>
   <category>catholic</category>
   <guid>https://ajstamm.github.io/musings/posts/lent_retreat_2025/patrick.html</guid>
-  <pubDate>Mon, 17 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 17 Mar 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/lent_retreat_2025/images/beaded_green_zebra.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -422,7 +415,7 @@
  ]]></description>
   <category>catholic</category>
   <guid>https://ajstamm.github.io/musings/posts/ignatius/</guid>
-  <pubDate>Sun, 16 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Sun, 16 Mar 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/ignatius/beaded_angel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -451,7 +444,7 @@
  ]]></description>
   <category>news</category>
   <guid>https://ajstamm.github.io/musings/posts/welcome/</guid>
-  <pubDate>Sat, 15 Mar 2025 04:00:00 GMT</pubDate>
+  <pubDate>Sat, 15 Mar 2025 05:00:00 GMT</pubDate>
   <media:content url="https://ajstamm.github.io/musings/posts/welcome/beaded_hiv.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>

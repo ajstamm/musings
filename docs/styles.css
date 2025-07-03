@@ -1,1 +1,10 @@
 /* css styles */
+/* https://mimo.org/glossary/css/text-shadow */
+/* .title-block-header */ 
+
+h1 {
+  color: white;
+  text-shadow: -1px 0 #002233, 0 1px #002233, 1px 0 #002233, 0 -1px #002233,
+               0 0 0.2em black, 0 0 0.2em black /*  , 0 0 0.2em black */
+}
+

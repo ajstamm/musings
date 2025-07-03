@@ -1,0 +1,24 @@
+---
+title: "Trusted Tester"
+author: "Abby Stamm"
+date: "2025-07-03"
+categories: 
+  - technology
+image: beaded_ladybug.jpg
+---
+
+Last month, I finally completed the Section 508 Trusted Tester certification. The course was very long, with generally helpful examples for each test item. It went into a lot more detail about some of the Web Content Accessibility Guidelines (WCAGs) than any other WCAG website I've visited, which I found very helpful. The practice tests were full of example pages that usually did a decent job of illustrating the concepts. In general, I'm impressed by the work the developers put into it. What I did not like so much is that some of the content apparently does not work consistently across platforms and for the text size tests, it expects your computer display is at least 1920 x 1200. As a result, in some cases, my experiences (and those of others who posted in the course forum) did not match the expected answer.
+
+As I worked my way through the course, I ran the various checks on this blog. For the most part, this blog, which is mostly text anyway, does a decent job of meeting WCAGs, but I did find two notable places it fell short.
+
+1. The image code I had copied over from markdown rendered images with captions instead of alt text. If the code had also put an empty string in place of the alt text (to avoid screen reader redundancy when the alt text and caption are the same), that might have been okay, but instead, the alt tag was missing entirely, so my images failed the test. I have now corrected them to contain alt text instead of captions. If I missed any, please let me know.
+2. In my titles, the text over the banner image had too little contrast with the image in both light and dark mode. This was trickier to solve because I really like my banner image and did not want to change it. Instead, I dug into custom style sheet (CSS) code for text shadows. I'm bad at CSS and worse at modifying (overriding?) quarto's default CSS, so that took a couple days. I like the result, but if you find it too hard to read, please tell me.
+
+There are still a few other issues, such as lack of alt text for some default icons (notably the search icon). I will need to do more research on modifying quarto defaults before I can fix it.
+
+I also spent a lot of time reviewing audio-visual (A/V) WCAGs because I've been thinking about starting a podcast (short 3-5 minute speeches not unlike Toastmasters talks). It looks like the easiest thing to do would be to write out the script in advance, then use the script as the audio transcript. I'll write more about it when I set it up.
+
+
+The image below is a beaded ladybug. Read more about it and see my other beadwork on [deviantArt](https://www.deviantart.com/anabiyeni/art/Beaded-ladybug-122494796). I chose this critter because I am thinking about bugs in my code. 
+
+![Beaded ladybug](beaded_ladybug.jpg)\
