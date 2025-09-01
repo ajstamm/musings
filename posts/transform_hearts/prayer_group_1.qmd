@@ -4,7 +4,7 @@ author: "Abby Stamm"
 date: "2025-05-17"
 categories: 
   - religion
-image: plush_hermette.jpg
+image: images/plush_hermette.jpg
 image-alt: Plush blue pony with nurse's hat and symbol
 ---
 
@@ -37,4 +37,4 @@ The next couple months will be led by House of Prayer and will give us an opport
 
 I couldn't find a good beadwork piece for this post, so enjoy one of my stuffed animals instead. The image below is of Hermette, an original nurse My Little Pony. Read more about her and see my other stuffed animals on [deviantArt](https://www.deviantart.com/anabiyeni/art/Plush-My-Little-Pony-Hermette-521434046). Sadly, she did not weather the move to Minnesota well and her mane and tail are terribly straggly and frizzy now. 
 
-![Plush blue pony with nurse's hat and symbol](plush_hermette.jpg)\
+![Plush blue pony with nurse's hat and symbol](images/plush_hermette.jpg)\

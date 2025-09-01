@@ -4,7 +4,8 @@ author: "Abby Stamm"
 date: "2025-05-31"
 categories: 
   - technology
-image: beaded_rainbow_spider.jpg
+image: images/beaded_rainbow_spider.jpg
+image-alt: Beaded rainbow colored spideer sculpture
 ---
 
 This week my first reflection was due for the contemplative prayer group. The assignment: a 700 word essay, a five-minute video, or an art piece with a 100-word description. My solution: a poem, [A moment in prayer (on AO3)](https://archiveofourown.org/works/66018598).
@@ -26,4 +27,4 @@ The next reflective piece is due in September. I'm curious what form it will tak
 
 The image below is a beaded rainbow-colored spider. Read more about it and see my other beadwork on [deviantArt](https://www.deviantart.com/anabiyeni/art/Beaded-rainbow-spider-122495223). I chose this spider partly because mind-mapping makes me think webs and partly because Pride Month starts tomorrow. 
 
-![Beaded rainbow spider](beaded_rainbow_spider.jpg)\
+![Beaded rainbow spider](images/beaded_rainbow_spider.jpg)\

@@ -23,42 +23,53 @@ title-block-banner: images/water-tree-root-mosaic.png
 
 ## Conference presentations, posters, and workshops
 
+Stamm, Abigail, & Noll, Angela. *One front door for Minnesota Department of Health and Local Public Health*. NACCHO 360 2025. Anaheim, CA, July 17, 2025.
 
-Stamm, A, & Kvale, E. *Designing Inclusive Shiny Dashboards: Accessibility Best Practices and Innovations*. ShinyConf 2025. Virtual, April 9, 2025.
+Stamm, Abigail, & Kvale, Eric. [*Designing Inclusive Shiny Dashboards: Accessibility Best Practices and Innovations*](https://www.youtube.com/watch?v=jsFLAm4hcyQ). ShinyConf 2025. Virtual, April 9, 2025.
 
-Stamm, A, Dickinson, A, Noll, A, & Kvale, E. [*Web Accessibility in Online Dashboard Design*](https://youtu.be/dY-i0cH4uas). Local Health Department Academy of Science National Conference 2025. Virtual, January 29, 2025.
+Stamm, Abigail, Dickinson, Analise, Noll, Angela, & Kvale, Eric. [*Web Accessibility in Online Dashboard Design*](https://youtu.be/dY-i0cH4uas). Local Health Department Academy of Science National Conference 2025. Virtual, January 29, 2025.
 
-Van Skiba, M, Stamm, A, & Woods, H. *Implementing an Info-savvy Assessment Program for Local Public Health*. Minnesota Partners in Public Health Conference 2024. Breezy Point, MN, November 15, 2024.
+Van Skiba, Michael, Stamm, Abigail, & Woods, Hannah. *Implementing an Info-savvy Assessment Program for Local Public Health*. Minnesota Partners in Public Health Conference 2024. Breezy Point, MN, November 15, 2024.
 
-Stamm, A, & Kvale, E. *Creating Accessible Dashboards Using R Shiny*. Minnesota Department of Human Services Equity Week. Virtual, September 27, 2024.
+Stamm, Abigail, & Kvale, Eric. *Creating Accessible Dashboards Using R Shiny*. Minnesota Department of Human Services Equity Week. Virtual, September 27, 2024.
 
-Sechler, A, Stamm, A, Kvale, E, & Rice, N. *Making Data Visualizations Accessible*. Minnesota Department of Human Services Equity Week. Virtual, September 26, 2024.
+Sechler, Angie, Stamm, Abigail, Kvale, Eric, & Rice, Nancy. *Making Data Visualizations Accessible*. Minnesota Department of Human Services Equity Week. Virtual, September 26, 2024.
 
-Stamm, A, Muscatiello, N, & Hsu, W. [*Accounting for demographics in geographic aggregation*](https://github.com/ajstamm/gatpkg/blob/master/presentations/NYS_GAT_PHC_2021.pdf). Place & Health Conference 2021. Virtual, November 16, 2021. 
+Stamm, Abigail, Muscatiello, Neil, & Hsu, Wan Hsiang. [*Accounting for demographics in geographic aggregation*](https://github.com/ajstamm/gatpkg/blob/master/presentations/NYS_GAT_PHC_2021.pdf). Place & Health Conference 2021. Virtual, November 16, 2021. 
 
-Stamm, A. [*gatpkg: Developing a geographic aggregation tool in R for non-programmers*](https://www.youtube.com/watch?v=r_wRMpqZcE8). useR! 2021. Virtual, July 6, 2021. 
+Stamm, Abigail. [*gatpkg: Developing a geographic aggregation tool in R for non-programmers*](https://www.youtube.com/watch?v=r_wRMpqZcE8). useR! 2021. Virtual, July 6, 2021. 
 
-Stamm, A. [*Geographic Aggregation Tool (GAT): A method for handling small numbers when calculating disease rates*](https://youtu.be/BRxhay4FhGI?t=1096). NAHDO Conference 2020. Virtual, August 25, 2020. 
+Stamm, Abigail. [*Geographic Aggregation Tool (GAT): A method for handling small numbers when calculating disease rates*](https://youtu.be/BRxhay4FhGI?t=1096). NAHDO Conference 2020. Virtual, August 25, 2020. 
 
 
 ## Work Presentations
 
-Stamm, A. *Cold related mortality in New York State*. CDC NEPHT Cold-Related Illness Workgroup Call. Virtual, August 11, 2021.
+Stamm, A, & Van Skiba, M. *Info-Savvy Assessment Facilitator Training*. Minnesota Department of Health Office of Data Strategy & Interoperability. St Paul, MN, August 29, 2025.
 
-Stamm, A. *Geographic Aggregation Tool (GAT): An introduction and demonstration*. NYSDOH BEOE Bureau Seminar. Virtual, February 18, 2021.
 
-Stamm, A, & Babcock, G. *Demonstration of the Geographic Aggregation Tool*. CDC NEPHT Geo Aggregation Workgroup Call. Virtual, March 9, 2020.
+Kopecky, L, Stamm, A, & Hilton, L. *Feedback Review with Whiteboard and Miro*. Minnesota Department of Health Meeting Facilitators Community of Practice. Virtual, August 19, 2025.
 
-Rai, A, Stamm, A, & Babcock, G. *NYS EPHT: Geographic Aggregation Development Process*. CDC NEPHT SND Workgroup Call. Virtual, October 3, 2019.
+Noll, Angela, Pretzel, Elly, Stamm, Abigail, & Kvale, Eric. *Data Accessibility Tools and Testing Tricks Round-Up*. Minnesota Department of Health Cafe Connect. Virtual, August 1, 2025.
+
+Stamm, A. *Trusted Tester Testing Criteria*. Minnesota State Enterprise Data Visualization A11y Community of Practice. Virtual, July 23, 2025.
+
+
+Stamm, Abigail. *Cold related mortality in New York State*. Centers for Disease Control & Prevention National Environmental Public Health Tracking Cold-Related Illness Workgroup Call. Virtual, August 11, 2021.
+
+Stamm, Abigail. *Geographic Aggregation Tool (GAT): An introduction and demonstration*. New York State Department of Health Bureau of Environmental & Occupational Epidemiology Bureau Seminar. Virtual, February 18, 2021.
+
+Stamm, Abigail, & Babcock, Gwen. *Demonstration of the Geographic Aggregation Tool*. Centers for Disease Control & Prevention National Environmental Public Health Tracking Geo Aggregation Workgroup Call. Virtual, March 9, 2020.
+
+Rai, Arjita, Stamm, Abigail, & Babcock, Gwen. *NYS EPHT: Geographic Aggregation Development Process*. Centers for Disease Control & Prevention National Environmental Public Health Tracking Systems & Network Development Workgroup Call. Virtual, October 3, 2019.
 
 
 ## School and community presentations
 
-Stamm, A. *Introduction to Pathways*. District 53 Toastmasters Leadership Institute. Schenectady, NY, July 13, 2018.
+Stamm, Abigail. *Introduction to Pathways*. District 53 Toastmasters Leadership Institute. Schenectady, NY, July 13, 2018.
 
-Stamm, A, & Wharram, D. *Sanctuary Campus Movement*. National Association of Graduate and Professional Students Northwest Region Conference. Columbia University, New York City, NY, April 8, 2017.
+Stamm, Abigail, & Wharram, Dawn. *Sanctuary Campus Movement*. National Association of Graduate and Professional Students Northwest Region Conference. Columbia University, New York City, NY, April 8, 2017.
 
-Stamm, A. *Rape Myths: What About Him?* Great Dane Talks. University at Albany, Albany, NY, April 25, 2016.
+Stamm, Abigail. *Rape Myths: What About Him?* Great Dane Talks. University at Albany, Albany, NY, April 25, 2016.
 
 
 

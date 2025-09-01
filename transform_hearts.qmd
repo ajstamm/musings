@@ -1,0 +1,13 @@
+---
+title: "Series: Contemplative Prayer Group Posts"
+listing:
+  contents: posts/transform_hearts
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [date, title, description]
+page-layout: full
+title-block-banner: images/water-tree-root-mosaic.png
+---

@@ -20,6 +20,9 @@ about:
 title-block-banner: images/water-tree-root-mosaic.png
 ---
 
+For a longer and more complete work history, visit my [LinkedIn](https://linkedin.com/in/abigailstamm).
+
+
 Data Technical Assistance Unit, Office of Data Strategy & Introperability, Minnesota Department of Health, St Paul, MN  
 **Senior Health Informatician**, August 2023 - present
 
