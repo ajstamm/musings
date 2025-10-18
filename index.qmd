@@ -38,7 +38,7 @@ I will use several of my own art pieces as blog images. Most of my art is posted
 - [Presentations](about/presentations.html): My conference presentations, facilitation experience, and courses I've taught
 - [Awards & Honors](about/awards-honors.html): My professional and university awards
 - [Volunteer Work](about/volunteer.html): My work with other organizations outside my main job duties
-- [Work History](about/work-history.html): My past work experience
+- [Work History](about/work-history.html): My paid work experience
 
 For my current curated resume, please visit my [LinkedIn](https://linkedin.com/in/abigailstamm).
 

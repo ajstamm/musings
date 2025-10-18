@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/garden_zine/index.html",
       "/posts/transform_hearts/reflection_2.html",
       "/posts/trusted_tester/index.html",
       "/posts/transform_hearts/reflection_1.html",
@@ -16,7 +17,6 @@
       "/posts/lent_retreat_2025/capernaum.html",
       "/posts/lent_retreat_2025/zebedee.html",
       "/posts/lent_retreat_2025/patrick.html",
-      "/posts/garden_zine/index.html",
       "/posts/ignatius/index.html",
       "/posts/welcome/index.html"
     ]
@@ -28,6 +28,7 @@
   {
     "listing": "/archive.html",
     "items": [
+      "/posts/garden_zine/index.html",
       "/posts/transform_hearts/reflection_2.html",
       "/posts/trusted_tester/index.html",
       "/posts/transform_hearts/reflection_1.html",
@@ -42,7 +43,6 @@
       "/posts/lent_retreat_2025/capernaum.html",
       "/posts/lent_retreat_2025/zebedee.html",
       "/posts/lent_retreat_2025/patrick.html",
-      "/posts/garden_zine/index.html",
       "/posts/ignatius/index.html",
       "/posts/welcome/index.html"
     ]
