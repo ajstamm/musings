@@ -28,6 +28,7 @@ Data Technical Assistance Unit, Office of Data Strategy & Introperability, Minne
 
 * Provide informatics support for projects with local health departments.
 * Assist with dashboard design and development using R and Shiny.
+* Provide data validation and preparation support.
 
 
 Environmental Public Health Tracking (EPHT) Program, Bureau of Environmental & Occupational Epidemiology (BEOE), New York State (NYS) Department of Health (DOH), Albany, NY   
