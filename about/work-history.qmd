@@ -35,18 +35,18 @@ Environmental Public Health Tracking (EPHT) Program, Bureau of Environmental & O
 **Research Scientist 2**, March 2022 - August 2023   
 **Research Scientist 1**, March 2018 – March 2022  
 
-- Served as the lead staff person for evaluations of geographic aggregation and imputation methods and lead  the development and implementation of the Geographic Aggregation Tool (GAT) and geomasker, two R packages for aggregating and mapping spatial data.
+- Served as the lead staff person for evaluations of geographic aggregation and imputation methods and led the development and implementation of the [Geographic Aggregation Tool (GAT)](https://github.com/ajstamm/gatpkg) and [Geomasking Tool](https://github.com/ajstamm/geomask), two R packages for aggregating and mapping spatial data.
 - Provided expertise for preparing data and information for new health and environmental indicators to share online and for CDC, academic researchers, and non-profits.
-- Developd, problem solved, and communicated enhancements to data managers at NYS DOH.
+- Developed, problem solved, and communicated enhancements for data managers at NYS DOH.
 - Discussed public health, informatics, health information, and health data interoperability on CDC workgroups about air quality, race and ethnicity, and census transition.
 - Used public health informatics principles and practices to work with IT to build and maintain the NYS EPHT online portal.
-- Prepared charts, map, and other visuals for reports and templates.
+- Prepared charts, maps, and other visuals for reports and templates.
 
 
 Geographical & Temporal Surveillance Methods and Resource Team (GeTSMART), BEOE, NYS DOH, Albany, NY  
 **Data Analyst**, May 2016 – March 2018  
 
-* Designed and implemented two research studies on heart attacks and published a peer reviewed manuscript on the results.
+* Designed and implemented two research studies on heart attacks and published a [peer reviewed manuscript](https://journals.lww.com/jphmp/abstract/2017/09001/a_spatial_analysis_of_acute_myocardial_infarction.7.aspx) on the results.
 * Cleaned and geocoded addresses, spatially linked data, and performed spatial analyses.
 
 
@@ -55,4 +55,4 @@ Office of Program Evaluation and Research (OPER), AIDS Institute, NYS DOH, Alban
 
 * Managed the naloxone use database, oversaw data entry, designed and ran routine data validation checks and summary reports, and maintained database documentation.
 * Identified and resolved data anomalies by following up with reporting agencies and instituting standardized responses on the naloxone use form. 
-* Designed the template and infographics for the annual law enforcement naloxone use fact sheet.
+* Designed the template and infographics for the [annual law enforcement naloxone use fact sheet](https://www.health.ny.gov/diseases/aids/general/opioid_overdose_prevention/docs/fact_sheet_law_enforcement.pdf).

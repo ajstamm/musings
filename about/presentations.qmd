@@ -23,9 +23,11 @@ title-block-banner: images/water-tree-root-mosaic.png
 
 ## Conference presentations, posters, and workshops
 
+Blair, Lyndsey, and Stamm, Abigail. [*Mind the Mess: Preparing Survey Data for Public Health Analysis*](https://www.youtube.com/watch?v=vXi0rsggKHQ). Local Health Department Academy of Science National Conference 2026. Virtual, January 28, 2026. [Presentation materials](https://github.com/ajstamm/toysurveydata/tree/main/archive/AoS_conference_files)
+
 Stamm, Abigail, and Noll, Angela. *One front door for Minnesota Department of Health and Local Public Health*. NACCHO 360 2025. Anaheim, CA, July 17, 2025.
 
-Stamm, Abigail, and Kvale, Eric. [*Designing Inclusive Shiny Dashboards: Accessibility Best Practices and Innovations*](https://www.youtube.com/watch?v=jsFLAm4hcyQ). ShinyConf 2025. Virtual, April 9, 2025.
+Stamm, Abigail, and Kvale, Eric. [*Designing Inclusive Shiny Dashboards: Accessibility Best Practices and Innovations*](https://www.youtube.com/watch?v=jsFLAm4hcyQ). ShinyConf 2025. Virtual, April 9, 2025. [Presentation materials](https://github.com/ajstamm/shiny-a11y-app/blob/master/presentation%20scripts/Web%20Accessibility%20ShinyConf%20Presentation%202025.pdf)
 
 Stamm, Abigail, Dickinson, Analise, Noll, Angela, and Kvale, Eric. [*Web Accessibility in Online Dashboard Design*](https://youtu.be/dY-i0cH4uas). Local Health Department Academy of Science National Conference 2025. Virtual, January 29, 2025.
 
@@ -44,6 +46,14 @@ Stamm, Abigail. [*Geographic Aggregation Tool (GAT): A method for handling small
 
 ## Work Presentations
 
+
+<!--
+Stamm, Abigail. *Creating a toy Community Health Assessment dataset*. Tidy Tuesday R User Group Meeting, Minnesota State Enterprise. Virtual, February 10, 2026.
+
+Stamm, Abigail, and Noll, Angela. *One front door*. SHIP Meeting, Minnesota Department of Health. Virtual, February 5, 2026.
+-->
+
+Stamm, Abigail. Building a Tobacco Factsheet in R. Data Strategy and Interoperability Monthly Staff Meeting, Minnesota Department of Health. Virtual, January 8, 2026.
 
 Stamm, Abigail, and Noll, Angela. *One front door*. Data Strategy and Interoperability All Staff Meeting, Minnesota Department of Health. St Paul, MN, October 14, 2025.
 
