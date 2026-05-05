@@ -20,31 +20,36 @@ about:
 title-block-banner: images/water-tree-root-mosaic.png
 ---
 
+[Quatrefiol Library](https://qlibrary.org/), Minneapolis, MN
+
+* Member, Technical Committee, December 2025 - present
+
 
 [St Clement's Church](https://www.stcstp.org/), St Paul, MN
 
-* St Clement's Cohort Member, Transforming Hearts Contemplative Prayer Program, Episcopal House of Prayer, January 2025 - present
+* St Clement's Representative, Transforming Hearts Contemplative Prayer Program, Episcopal House of Prayer, January 2025 - present
 * Soundboard Operator, Audio/Video Ministry, January 2025 - present
 * Assistant, Youth Sunday School, September 2025 - present
 * Acolyte, Altar Guild, November 2025 - present
+* Lector, Liturgical Ministry, April 2025 - present
 
 
 [Local Health Department Academy of Science](https://lhdacademyofscience.org/)
 
 * Minnesota State Librarian, August 2023 - present
-* National Conference Committee Member, 2024 - present
+* National Conference Committee Member, Summer 2024 - present
 
-R User Group, Minnesota Department of Health, St Paul, MN
+R User Group, Minnesota State Enterprise, St Paul, MN
 
-* Trainer, annual RCamp workshops, 2023 - present
-* Coordinator, annual RCamp workshops, 2024 - present
+* Trainer, annual RCamp workshops, Fall 2023 - present
+* Coordinator, annual RCamp workshops, Fall 2024 - present
 
 
 Epidemiology and Biostatistics Community of Practice, New York State Department of Health, Albany, NY
 
 * Co-chair, June 2022 - July 2023
 * Learning Pathways Coordinator for ArcGIS, Python, SQL, Tableau, and manuscript writing workshops, Fall 2018 - Spring 2020, Fall 2022 - Summer 2023
-* Trainer, biannual R programming workshops, Spring 2017 - Fall 2019
+* Trainer, biannual R programming workshops, Spring 2016 - Fall 2019
 
 [Toastmasters International](https://www.toastmasters.org/), Albany, NY
 
