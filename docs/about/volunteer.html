@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Volunteer Work – Where the branches meet the roots</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -36,12 +39,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-08799928d293638fe9563d5c5a2794e5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-e8964db687007ca8dd88d9d9ce58e3ef.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -344,27 +347,33 @@ background-size: cover;
 </div>
       <div class="about-contents"><main class="content quarto-banner-title-block" id="quarto-document-content">
 
-<p><a href="https://www.stcstp.org/">St Clement’s Church</a>, St Paul, MN</p>
+<p><a href="https://qlibrary.org/">Quatrefiol Library</a>, Minneapolis, MN</p>
 <ul>
-<li>St Clement’s Cohort Member, Transforming Hearts Contemplative Prayer Program, Episcopal House of Prayer, January 2025 - present</li>
+<li>Member, Technical Committee, December 2025 - present</li>
+</ul>
+<p><a href="https://www.stcstp.org/">St Clement’s Episcopal Church</a>, St Paul, MN</p>
+<ul>
+<li>St Clement’s Representative, Transforming Hearts Contemplative Prayer Program, Episcopal House of Prayer, January 2025 - present</li>
 <li>Soundboard Operator, Audio/Video Ministry, January 2025 - present</li>
-<li>Assistant, Youth Sunday School, September 2025 - present</li>
+<li>Assistant, Youth Bible Study, September 2025 - present</li>
+<li>Acolyte, November 2025 - present</li>
+<li>Lector, April 2025 - present</li>
 </ul>
 <p><a href="https://lhdacademyofscience.org/">Local Health Department Academy of Science</a></p>
 <ul>
 <li>Minnesota State Librarian, August 2023 - present</li>
-<li>National Conference Committee Member, 2024 - present</li>
+<li>National Conference Committee Member, Summer 2024 - present</li>
 </ul>
-<p>R User Group, Minnesota Department of Health, St Paul, MN</p>
+<p>R User Group, Minnesota State Enterprise, St Paul, MN</p>
 <ul>
-<li>Trainer, annual RCamp workshops, 2023 - present</li>
-<li>Coordinator, annual RCamp workshops, 2024 - present</li>
+<li>Trainer, annual <a href="https://tidy-mn.github.io/R-camp-penguins/index.html">RCamp</a> workshops, Fall 2023 - present</li>
+<li>Coordinator, annual <a href="https://tidy-mn.github.io/R-camp-penguins/index.html">RCamp</a> workshops, Fall 2024 - present</li>
 </ul>
 <p>Epidemiology and Biostatistics Community of Practice, New York State Department of Health, Albany, NY</p>
 <ul>
 <li>Co-chair, June 2022 - July 2023</li>
 <li>Learning Pathways Coordinator for ArcGIS, Python, SQL, Tableau, and manuscript writing workshops, Fall 2018 - Spring 2020, Fall 2022 - Summer 2023</li>
-<li>Trainer, biannual R programming workshops, Spring 2017 - Fall 2019</li>
+<li>Trainer, biannual R programming workshops, Spring 2016 - Fall 2019</li>
 </ul>
 <p><a href="https://www.toastmasters.org/">Toastmasters International</a>, Albany, NY</p>
 <ul>
@@ -442,13 +451,14 @@ background-size: cover;
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

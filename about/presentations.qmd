@@ -26,12 +26,22 @@ title-block-banner: images/water-tree-root-mosaic.png
 <!--
 Upcoming:
 
-
-R/Medicine, May 4-8 2026, virtual, with Eric
+useR! July 2026, virtual, with Eric
 * Demonstration on making Shiny dashboards accessible for users who rely on screen readers and keyboards
 * Synthetic by Design: Pairing toysurveydata and NSSP Synthetic Data Generator for Privacy-Safe Public Health Training and Development
 -->
 
+Stamm, Abigail, and Kvale, Eric. 
+*Synthetic by Design: Pairing toysurveydata and NSSP Synthetic Data Generator for Privacy-Safe Public Health Training and Development*. 
+R/Medicine 2026. 
+Virtual, May 8, 2026.
+Presentation materials: [toysurveydata](https://ajstamm.github.io/toysurveydata/articles/categorical_variables.html) and [NSSP app](https://0v0ins-ekvale.shinyapps.io/nssp-synthetic-data/).
+
+Stamm, Abigail, and Kvale, Eric. 
+[*Making Shiny dashboards accessible for users who rely on screen readers and keyboards*](https://www.youtube.com/watch?v=jIrVh2S2AAM). 
+R/Medicine 2026. 
+Virtual, May 6, 2026.
+[Presentation materials](https://github.com/ajstamm/shiny-a11y-app/tree/master/presentation%20scripts/RMedicine%202026).
 
 Blair, Lyndsey, and Stamm, Abigail. 
 [*Mind the Mess: Preparing Survey Data for Public Health Analysis*](https://www.youtube.com/watch?v=vXi0rsggKHQ). 

@@ -1,6 +1,14 @@
 [
   {
-    "listing": "/blog.html",
+    "listing": "/transform_hearts.html",
+    "items": [
+      "/posts/transform_hearts/reflection_2.html",
+      "/posts/transform_hearts/reflection_1.html",
+      "/posts/transform_hearts/prayer_group_1.html"
+    ]
+  },
+  {
+    "listing": "/archive.html",
     "items": [
       "/posts/garden_zine/index.html",
       "/posts/transform_hearts/reflection_2.html",
@@ -22,11 +30,7 @@
     ]
   },
   {
-    "listing": "/posts/archive.html",
-    "items": []
-  },
-  {
-    "listing": "/archive.html",
+    "listing": "/blog.html",
     "items": [
       "/posts/garden_zine/index.html",
       "/posts/transform_hearts/reflection_2.html",
@@ -59,14 +63,6 @@
       "/posts/lent_retreat_2025/capernaum.html",
       "/posts/lent_retreat_2025/zebedee.html",
       "/posts/lent_retreat_2025/patrick.html"
-    ]
-  },
-  {
-    "listing": "/transform_hearts.html",
-    "items": [
-      "/posts/transform_hearts/reflection_2.html",
-      "/posts/transform_hearts/reflection_1.html",
-      "/posts/transform_hearts/prayer_group_1.html"
     ]
   }
 ]

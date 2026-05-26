@@ -7,3 +7,5 @@
 images/old/*
 _site/*
 .positai
+
+**/*.quarto_ipynb
