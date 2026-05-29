@@ -27,22 +27,22 @@ title-block-banner: images/water-tree-root-mosaic.png
 
 [St Clement's Episcopal Church](https://www.stcstp.org/), St Paul, MN
 
-* St Clement's Representative, Transforming Hearts Contemplative Prayer Program, Episcopal House of Prayer, January 2025 - present
-* Soundboard Operator, Audio/Video Ministry, January 2025 - present
-* Assistant, Youth Bible Study, September 2025 - present
 * Acolyte, November 2025 - present
+* Assistant, Youth Bible Study, September 2025 - present
 * Lector, April 2025 - present
+* Soundboard Operator, Audio/Video Ministry, January 2025 - present
+* St Clement's Representative, Transforming Hearts Contemplative Prayer Program, Episcopal House of Prayer, January 2025 - present
 
 
 [Local Health Department Academy of Science](https://lhdacademyofscience.org/)
 
-* Minnesota State Librarian, August 2023 - present
 * National Conference Committee Member, Summer 2024 - present
+* Minnesota State Librarian, August 2023 - present
 
 R User Group, Minnesota State Enterprise, St Paul, MN
 
-* Trainer, annual [RCamp](https://tidy-mn.github.io/R-camp-penguins/index.html) workshops, Fall 2023 - present
 * Coordinator, annual [RCamp](https://tidy-mn.github.io/R-camp-penguins/index.html) workshops, Fall 2024 - present
+* Trainer, annual [RCamp](https://tidy-mn.github.io/R-camp-penguins/index.html) workshops, Fall 2023 - present
 
 
 Epidemiology and Biostatistics Community of Practice, New York State Department of Health, Albany, NY

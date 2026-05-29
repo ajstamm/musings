@@ -22,29 +22,54 @@ title-block-banner: images/water-tree-root-mosaic.png
 
 ## Research
 
-Stamm, Abigail (2023). [*Association of Prenatal Exposure to Air Pollutants with Select Birth Defects Using the Case-Cohort Approach*](https://github.com/ajstamm/apcmpkg/blob/main/documents/Astamm_dissertation_manuscript.pdf) [Doctoral dissertation, University at Albany]. ProQuest Dissertations and Theses Global.
+Stamm, Abigail (2023). 
+[*Association of Prenatal Exposure to Air Pollutants with Select Birth Defects Using the Case-Cohort Approach*](https://github.com/ajstamm/apcmpkg/blob/main/documents/Astamm_dissertation_manuscript.pdf) 
+[Doctoral dissertation, University at Albany]. 
+ProQuest Dissertations and Theses Global.
 
-Stamm, Abigail, Savadatti, Sanghamitra, Kumar, Sanjaya, & Hwang, Syni-An (2017). [*A spatial analysis of acute myocardial infarction rates in New York State in relation to hospitals along state jurisdictional borders*](https://journals.lww.com/jphmp/abstract/2017/09001/a_spatial_analysis_of_acute_myocardial_infarction.7.aspx). Journal Of Public Health Management And Practice, 23(5), S39-S44. doi:10.1097/PHH.0000000000000596
+Stamm, Abigail, Savadatti, Sanghamitra, Kumar, Sanjaya, & Hwang, Syni-An (2017). 
+[*A spatial analysis of acute myocardial infarction rates in New York State in relation to hospitals along state jurisdictional borders*](https://journals.lww.com/jphmp/abstract/2017/09001/a_spatial_analysis_of_acute_myocardial_infarction.7.aspx). 
+Journal Of Public Health Management And Practice, 23(5), S39-S44.
+doi:10.1097/PHH.0000000000000596
 
 ## Software
 
-Kvale, Eric, & Stamm, Abigail (2024). *Legislative Dashboard*. Minnesota Department of Health. Internal R Shiny dashboard.
 
-Stamm, Abigail, & Babcock, Gwen (2023). [*gatpkg: Geographic Aggregation Tool (GAT)*](https://github.com/nytracking/gatpkg). R package version 2.0.0. 
+Stamm, Abigail (2026). 
+[*toysurveydata: Simulate survey data*](https://github.com/ajstamm/toysurveydata). 
+R package version 0.1.0. 
 
-Stamm, Abigail (2023). [*carvedpumpkin: Carve a jack-o-lantern*](https://github.com/ajstamm/carvedpumpkin). R package version 0.1.0. 
+Kvale, Eric, & Stamm, Abigail (2024). 
+*Legislative Dashboard*. 
+Minnesota Department of Health. Internal R Shiny dashboard.
+
+Stamm, Abigail, & Babcock, Gwen (2023). 
+[*gatpkg: Geographic Aggregation Tool (GAT)*](https://github.com/nytracking/gatpkg). 
+R package version 2.0.0. 
+
+Stamm, Abigail (2023). 
+[*carvedpumpkin: Carve a jack-o-lantern*](https://github.com/ajstamm/carvedpumpkin). 
+R package version 0.1.0. 
 
 ## Games
 
-Stamm, Abigail (2022). [*Alone Among the Sheep*](https://ajstamm.itch.io/alone-among-the-sheep). Entry for Lone Wolf Solo TTRPG Jam. 
+Stamm, Abigail (2022). 
+[*Alone Among the Sheep*](https://ajstamm.itch.io/alone-among-the-sheep). 
+Entry for Lone Wolf Solo TTRPG Jam. 
 
-Stamm, Abigail (2021). [*Shepherd's Crook*](https://ajstamm.itch.io/shepherds-crook). Entry for Lost & Found Jam. 
+Stamm, Abigail (2021). 
+[*Shepherd's Crook*](https://ajstamm.itch.io/shepherds-crook). 
+Entry for Lost & Found Jam. 
 
-Stamm, Abigail (2021). [*Perennial Garden*](https://github.com/ajstamm/blinks_public/tree/main/perennial_garden). Entry for Global Game Jam, Blinks category. 
+Stamm, Abigail (2021). 
+[*Perennial Garden*](https://github.com/ajstamm/blinks_public/tree/main/perennial_garden). 
+Entry for Global Game Jam, Blinks category. 
 
 ## Zines
 
-Stamm, Abigail (2025). [*Garden of Labyrinths: Meadow*](https://ajstamm.itch.io/meadow-of-labyrinths). Zine of labyrinths inspired by flowers and animals.
+Stamm, Abigail (2025). 
+[*Garden of Labyrinths*](https://itch.io/c/7546409/garden-of-labyrinths). 
+A series of themed one-page zines inspired by common plants, animals, and objects.
 
 ## Other work
 

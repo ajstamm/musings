@@ -25,7 +25,6 @@ title-block-banner: images/water-tree-root-mosaic.png
 
 <!--
 Upcoming:
-
 useR! July 2026, virtual, with Eric
 * Demonstration on making Shiny dashboards accessible for users who rely on screen readers and keyboards
 * Synthetic by Design: Pairing toysurveydata and NSSP Synthetic Data Generator for Privacy-Safe Public Health Training and Development

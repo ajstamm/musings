@@ -23,34 +23,44 @@ title-block-banner: images/water-tree-root-mosaic.png
 For a longer and more complete work history, visit my [LinkedIn](https://linkedin.com/in/abigailstamm).
 
 
-Data Technical Assistance Unit, Office of Data Strategy & Introperability, Minnesota Department of Health, St Paul, MN  
+Data Technical Assistance Unit (DTA), 
+Office of Data Strategy & Introperability (DSI), 
+Minnesota Department of Health (MDH), St Paul, MN  
 **Senior Health Informatician**, August 2023 - present
 
-* Provide informatics support for projects with local health departments.
-* Assist with dashboard design and development using R and Shiny.
-* Provide data validation and preparation support.
+* Provide informatics support for six projects with local health departments.
+* Design and build three dashboards using R and Shiny.
+* Validate and prepare data for six projects.
+* Design and revise surveys for three projects.
 
 
-Environmental Public Health Tracking (EPHT) Program, Bureau of Environmental & Occupational Epidemiology (BEOE), New York State (NYS) Department of Health (DOH), Albany, NY   
+Environmental Public Health Tracking (EPHT) Program, 
+Bureau of Environmental & Occupational Epidemiology (BEOE), 
+New York State (NYS) Department of Health (DOH), Albany, NY   
 **Research Scientist 2**, March 2022 - August 2023   
 **Research Scientist 1**, March 2018 – March 2022  
 
-- Served as the lead staff person for evaluations of geographic aggregation and imputation methods and led the development and implementation of the [Geographic Aggregation Tool (GAT)](https://github.com/ajstamm/gatpkg) and [Geomasking Tool](https://github.com/ajstamm/geomask), two R packages for aggregating and mapping spatial data.
-- Provided expertise for preparing data and information for new health and environmental indicators to share online and for CDC, academic researchers, and non-profits.
+- Led the evaluation of geographic aggregation and imputation methods
+- Led the development and implementation of the [Geographic Aggregation Tool (GAT)](https://github.com/ajstamm/gatpkg) and [Geomasking Tool](https://github.com/ajstamm/geomask), two R packages for aggregating and mapping spatial data.
+- Provided expertise to prepare data and information for new health and environmental indicators to share online and for CDC, academic researchers, and non-profits.
 - Developed, problem solved, and communicated enhancements for data managers at NYS DOH.
 - Discussed public health, informatics, health information, and health data interoperability on CDC workgroups about air quality, race and ethnicity, and census transition.
 - Used public health informatics principles and practices to work with IT to build and maintain the NYS EPHT online portal.
 - Prepared charts, maps, and other visuals for reports and templates.
 
 
-Geographical & Temporal Surveillance Methods and Resource Team (GeTSMART), BEOE, NYS DOH, Albany, NY  
+Geographical & Temporal Surveillance Methods and Resource Team (GeTSMART), 
+Bureau of Environmental & Occupational Epidemiology (BEOE), 
+New York State (NYS) Department of Health (DOH), Albany, NY   
 **Data Analyst**, May 2016 – March 2018  
 
 * Designed and implemented two research studies on heart attacks and published a [peer reviewed manuscript](https://journals.lww.com/jphmp/abstract/2017/09001/a_spatial_analysis_of_acute_myocardial_infarction.7.aspx) on the results.
 * Cleaned and geocoded addresses, spatially linked data, and performed spatial analyses.
 
 
-Office of Program Evaluation and Research (OPER), AIDS Institute, NYS DOH, Albany, NY  
+Office of Program Evaluation and Research (OPER), 
+AIDS Institute, 
+New York State (NYS) Department of Health (DOH), Albany, NY   
 **Evaluation Specialist**, June 2015 – March 2018  
 
 * Managed the naloxone use database, oversaw data entry, designed and ran routine data validation checks and summary reports, and maintained database documentation.
